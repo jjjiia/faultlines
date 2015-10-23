@@ -1,0 +1,2281 @@
+060376513022_060376513023 : Vía Valmonte , Torrance
+060376513023_060376513024 : Vía Colusa , Redondo Beach
+060376513023_060376703241 : Vía Valmonte , Torrance
+060376513023_060376703242 : Boundary Trail , Torrance
+060376513023_060376703244 : Torrance Utility Road , Palos Verdes Estates
+060376513023_060376514023 : Vía Valmonte , Torrance
+060376513021_060376513022 : Newton Street , Torrance
+060376513022_060376513024 : Vía Los Miradores , Redondo Beach
+060376513022_060376514022 : Newton Street , Torrance
+060376513022_060376514023 : Vía Valmonte , Torrance
+060376513022_060376513045 : Calle Mayor , Torrance
+060376513021_060376514022 : Newton Street , Torrance
+060376512011_060376513021 : Calle Mayor , Torrance
+060376512222_060376513021 : Ocean Avenue , Torrance
+060376512221_060376513021 : Anza Avenue , Torrance
+060376513021_060376513045 : Calle Mayor , Torrance
+060375009001_060375009002 : Mines Avenue , Pico Rivera
+060375008001_060375009002 : Cord Avenue , Pico Rivera
+060375008003_060375009002 : Mines Avenue , Pico Rivera
+060375008004_060375009002 : Mines Avenue , Pico Rivera
+060375009002_060375009003 : Passons Boulevard , Pico Rivera
+060376513025_060376513026 : Boundary Trail , Palos Verdes Estates
+060376513026_060376703243 : Torrance Utility Road , Palos Verdes Estates
+060376513026_060376703244 : Torrance Utility Road , Palos Verdes Estates
+060376513026_060376513044 : Calle Mayor , Redondo Beach
+060376513026_060376513043 : Palos Verdes Boulevard , Redondo Beach
+060376513024_060376513025 : Boundary Trail , Redondo Beach
+060376513025_060376703244 : Boundary Trail , Palos Verdes Estates
+060376513025_060376513045 : Calle Mayor , Redondo Beach
+060376513025_060376513044 : Calle Mayor , Redondo Beach
+060375004022_060375009001 : Whittier Boulevard , Pico Rivera
+060375004021_060375009001 : Whittier Boulevard , Whittier
+060375008001_060375009001 : Mines Avenue , Pico Rivera
+060375009001_060375010011 : San Gabriel River Mid Trail , Whittier
+060375004031_060375009001 : Whittier Boulevard , Whittier
+060375009001_060375022001 : San Gabriel River Mid Trail , Whittier
+060375009001_060375009004 : Whittier Boulevard , Pico Rivera
+060375009001_060375009003 : Passons Boulevard , Pico Rivera
+060374631021_060374631023 : East Del Mar Boulevard , Pasadena
+060374629003_060374631021 : Sierra Madre Villa Avenue , Pasadena
+060374631011_060374631021 : South Rosemead Boulevard , Pasadena
+060374630002_060374631021 : North Rosemead Boulevard , Pasadena
+060374631021_060374632001 : South Kinneloa Avenue , Pasadena
+060374631022_060374631023 : San Pasqual Street , Pasadena
+060374631022_060374800022 : Sunnyslope Drive , San Gabriel
+060374631022_060374800021 : North San Gabriel Boulevard , San Gabriel
+060374631022_060374642001 : South San Gabriel Boulevard , San Marino
+060374631022_060374642002 : South San Gabriel Boulevard , Pasadena
+060374631022_060374642003 : North San Gabriel Boulevard , San Gabriel
+060374631012_060374631022 : South Rosemead Boulevard , East San Gabriel
+060374631022_060374800112 : East Huntington Drive , San Gabriel
+060374631022_060374800111 : South Rosemead Boulevard , East San Gabriel
+060374631022_060374632002 : San Pasqual Street , Pasadena
+060374631022_060374632001 : San Pasqual Street , Pasadena
+060374631011_060374631023 : South Rosemead Boulevard , Pasadena
+060374631012_060374631023 : San Pasqual Street , Pasadena
+060374631023_060374632002 : San Pasqual Street , Pasadena
+060374631023_060374632001 : Oneida Drive , Pasadena
+060371244002_060371249021 : Whitsett Avenue , Los Angeles
+060371240001_060371249021 : Whitsett Avenue , Los Angeles
+060371249021_060371251002 : Laurel Canyon Boulevard , Los Angeles
+060371244003_060371249021 : Whitsett Avenue , Los Angeles
+060371249021_060371249031 : Whitsett Avenue , Los Angeles
+060371249021_060371249032 : Hermitage Avenue , Los Angeles
+060371238002_060371249021 : Laurel Canyon Boulevard , Los Angeles
+060371239022_060371249021 : Laurel Canyon Boulevard , Los Angeles
+060371249021_060371251001 : Laurel Canyon Boulevard , Los Angeles
+060375356072_060375356073 : Seminole Avenue , South Gate
+060375356071_060375356072 : Tweedy Boulevard , South Gate
+060375356072_060375356074 : Sequoia Drive , South Gate
+060375356072_060375402011 : State Street , South Gate
+060375356072_060375402012 : State Street , South Gate
+060375356052_060375356072 : Tweedy Boulevard , South Gate
+060375356073_060375356074 : Pescadero Avenue , South Gate
+060375356073_060375403004 : State Street , South Gate
+060375356073_060375403002 : Martin Luther King Junior Boulevard , South Gate
+060375356073_060375402011 : State Street , South Gate
+060375356073_060375402012 : Century Boulevard , South Gate
+060375356071_060375356074 : Seminole Avenue , South Gate
+060375356071_060375403001 : Alameda Street , South Gate
+060375354003_060375356071 : Tweedy Boulevard , South Gate
+060375356061_060375356071 : Tweedy Boulevard , South Gate
+060375356052_060375356071 : Tweedy Boulevard , South Gate
+060375352002_060375352003 : Success Avenue , Los Angeles
+060372420003_060375352003 : East 103rd Street , Los Angeles
+060372423003_060375352003 : East 103rd Street , Los Angeles
+060372407001_060375352003 : South Central Avenue , Los Angeles
+060372420001_060375352003 : East 103rd Street , Los Angeles
+060372423001_060375352003 : East 96th Street , Los Angeles
+060375352001_060375352002 : Compton Avenue , Florence-Graham
+060372400203_060375352002 : East 90th Street , Los Angeles
+060372407001_060375352002 : East 92nd Street , Los Angeles
+060372423001_060375352002 : Success Avenue , Los Angeles
+060375356074_060375403001 : Santa Fe Avenue , South Gate
+060375356074_060375403002 : Martin Luther King Junior Boulevard , South Gate
+060372431001_060372431002 : East 112th Street , Los Angeles
+060372431001_060372431003 : East 112th Street , Los Angeles
+060372430001_060372431001 : Santa Ana Boulevard North , Los Angeles
+060372430004_060372431001 : Mona Boulevard , Los Angeles
+060372427001_060372431001 : Wilmington Avenue , Los Angeles
+060372427002_060372431001 : Wilmington Avenue , Los Angeles
+060372431001_060375404001 : Mona Boulevard , Los Angeles
+060372431001_060375404002 : Mona Boulevard , Los Angeles
+060371912031_060371912032 : Lexington Avenue , Los Angeles
+060371912012_060371912031 : North Vermont Avenue , Los Angeles
+060371912031_060371913021 : Lexington Avenue , Los Angeles
+060371912031_060371913022 : North Vermont Avenue , Los Angeles
+060371912031_060371912041 : Fountain Avenue , Los Angeles
+060371912031_060371913012 : Lexington Avenue , Los Angeles
+060371912032_060371913021 : Lexington Avenue , Los Angeles
+060371912032_060371912041 : Lexington Avenue , Los Angeles
+060371912032_060371914101 : Santa Monica Boulevard , Los Angeles
+060371912032_060371915001 : North Heliotrope Drive , Los Angeles
+060371912032_060371915002 : Santa Monica Boulevard , Los Angeles
+060371912032_060371913012 : Santa Monica Boulevard , Los Angeles
+060372044101_060372044102 : South Cummings Street , Los Angeles
+060372044102_060372046002 : East 4th Street , Los Angeles
+060372036003_060372044102 : East Cesar E Chavez Avenue , Los Angeles
+060372044102_060372044201 : North Saint Louis Street , Los Angeles
+060372044102_060372044202 : East 4th Street , Los Angeles
+060372044101_060372060322 : South State Street , Los Angeles
+060372044101_060372046002 : East 4th Street , Los Angeles
+060372044101_060372060501 : South State Street , Los Angeles
+060372036003_060372044101 : East Cesar E Chavez Avenue , Los Angeles
+060372035003_060372044101 : North State Street , Los Angeles
+060372035001_060372044101 : Christopher Columbus Transcontinental Highway , Los Angeles
+060374801011_060374801012 : Hermosa Drive , Temple City
+060374801011_060374801013 : Longden Avenue , Temple City
+060374800122_060374801011 : Oak Avenue , Temple City
+060374318003_060374801011 : Oak Avenue , Temple City
+060374319003_060374801011 : Encinita Avenue , Temple City
+060374801012_060374801013 : Hermosa Drive , Temple City
+060374801012_060374812011 : Sultana Avenue , Temple City
+060374801012_060374812013 : East Las Tunas Drive , San Gabriel
+060374320005_060374801012 : Encinita Avenue , Temple City
+060374801012_060374801021 : East Hermosa Drive , San Gabriel
+060374801012_060374801022 : Tree Rose Terrace , San Gabriel
+060374801012_060374812021 : East Las Tunas Drive , San Gabriel
+060374319003_060374801012 : Encinita Avenue , Temple City
+060374800022_060374801013 : Longden Avenue , San Gabriel
+060374800123_060374801013 : Longden Avenue , San Gabriel
+060374800122_060374801013 : Longden Avenue , Temple City
+060374801013_060374801021 : Longden Avenue , San Gabriel
+060376200012_060376200013 : East Palm Avenue , El Segundo
+060376200011_060376200013 : East Oak Avenue , El Segundo
+060376200013_060376201011 : Imperial Highway , Los Angeles
+060376200013_060379800281 : California Street , Los Angeles
+060376200011_060376200012 : East Maple Avenue , El Segundo
+060376200012_060376201011 : East Palm Avenue , El Segundo
+060376200012_060376201021 : East Mariposa Avenue , El Segundo
+060376200012_060376200022 : East Mariposa Avenue , El Segundo
+060376200012_060376200023 : East Mariposa Avenue , El Segundo
+060376200012_060379800131 : East Mariposa Avenue , El Segundo
+060376200011_060379800281 : Imperial Highway , El Segundo
+060376200011_060379800131 : East Maple Avenue , El Segundo
+060376704031_060376704051 : Indian Peak Road , Rolling Hills Estates
+060376704031_060376705001 : Crenshaw Boulevard , Rancho Palos Verdes
+060376702021_060376704031 : Chadwick Trail , Rolling Hills Estates
+060376704031_060376704112 : Hawthorne Boulevard , Rolling Hills Estates
+060376702011_060376704031 : Crenshaw Boulevard , Palos Verdes Peninsula
+060376704031_060376704111 : Hawthorne Boulevard , Rancho Palos Verdes
+060372123061_060372123062 : West 8th Street , Los Angeles
+060372122032_060372123061 : West 8th Street , Los Angeles
+060372123061_060372134012 : Vermont Avenue , Los Angeles
+060372123061_060372133202 : South Berendo Street , Los Angeles
+060372123031_060372123061 : West 8th Street , Los Angeles
+060372122022_060372123061 : South Vermont Avenue , Los Angeles
+060372123061_060372133201 : San Marino Street , Los Angeles
+060372123041_060372123062 : West 8th Street , Los Angeles
+060372123062_060372133202 : San Marino Street , Los Angeles
+060372123051_060372123062 : West 8th Street , Los Angeles
+060372123031_060372123062 : West 8th Street , Los Angeles
+060372123062_060372133101 : South Kenmore Avenue , Los Angeles
+060375421062_060375421063 : East Myrrh Street , Compton
+060375421061_060375421062 : South Frailey Avenue , East Compton
+060375421053_060375421062 : South White Avenue , East Compton
+060375421052_060375421062 : South White Avenue , East Compton
+060375421062_060375422001 : Atlantic Avenue , Compton
+060375421062_060375422003 : East Alondra Boulevard , Compton
+060375421061_060375421063 : East Myrrh Street , Compton
+060375421033_060375421063 : East Compton Boulevard , East Compton
+060375421053_060375421063 : South White Avenue , East Compton
+060375421052_060375421063 : South White Avenue , East Compton
+060375421042_060375421063 : South Lime Avenue , East Compton
+060375421061_060375422001 : South Frailey Avenue , East Compton
+060375421061_060375537021 : Hunsaker Avenue , Paramount
+060375421061_060375538023 : Alondra Boulevard , Paramount
+060375421041_060375421061 : Long Beach Freeway , Compton
+060375421042_060375421061 : Somerset Boulevard , Compton
+060379108091_060379302002 : Sand Canyon Road , Santa Clarita
+060379108071_060379108091 : Oak Springs Canyon Road , Santa Clarita
+060379108091_060379108111 : Sand Canyon Road , Santa Clarita
+060379108091_060379200411 : Lost Canyon Road , Santa Clarita
+060379108091_060379200431 : Sand Canyon Road , Santa Clarita
+060371065202_060371065203 : Bradley Avenue , Los Angeles
+060371064061_060371065202 : Glenoaks Boulevard , Los Angeles
+060371064062_060371065202 : Glenoaks Boulevard , Los Angeles
+060371065102_060371065202 : Glenoaks Boulevard , Los Angeles
+060371065202_060371066481 : Polk Street , Los Angeles
+060371065202_060371070201 : Polk Street , Los Angeles
+060371065201_060371065202 : Bradley Avenue , Los Angeles
+060371065202_060371066042 : San Fernando Road Bike Path , Los Angeles
+060371065202_060371066044 : Roxford Street , Los Angeles
+060371065203_060371070201 : Bradley Avenue , Los Angeles
+060371065201_060371065203 : Polk Street , Los Angeles
+060371065203_060371070101 : Polk Street , Los Angeles
+060372181201_060372181202 : Venice Boulevard , Los Angeles
+060372181201_060372181203 : Venice Boulevard , Los Angeles
+060372129001_060372181201 : Pico Boulevard , Los Angeles
+060372181102_060372181201 : Venice Boulevard , Los Angeles
+060372181101_060372181201 : 6th Avenue , Los Angeles
+060372129002_060372181201 : Pico Boulevard , Los Angeles
+060372181201_060372213041 : Arlington Avenue , Los Angeles
+060372181201_060372213021 : Arlington Avenue , Los Angeles
+060372131002_060372181201 : Pico Boulevard , Los Angeles
+060372181202_060372181203 : Venice Boulevard , Los Angeles
+060372181202_060372214022 : Arlington Avenue , Los Angeles
+060372181202_060372213041 : Arlington Avenue , Los Angeles
+060372181202_060372213021 : Arlington Avenue , Los Angeles
+060372181202_060372188001 : West Washington Boulevard , Los Angeles
+060372181102_060372181203 : Venice Boulevard , Los Angeles
+060372181101_060372181203 : Venice Boulevard , Los Angeles
+060372181203_060372188002 : 6th Avenue , Los Angeles
+060372181203_060372188001 : 6th Avenue , Los Angeles
+060375510002_060375510003 : Pangborn Avenue , Downey
+060375510001_060375510003 : Pangborn Avenue , Downey
+060375510003_060375510006 : Pangborn Avenue , Downey
+060375510003_060375510004 : Woodruff Avenue , Downey
+060375510003_060375513001 : Firestone Boulevard , Downey
+060375509012_060375510003 : Cecilia Street , Downey
+060375509013_060375510003 : Lakewood Boulevard , Downey
+060375510003_060375511022 : Firestone Boulevard , Downey
+060375510003_060375511021 : Firestone Boulevard , Downey
+060375510001_060375510002 : Pangborn Avenue , Downey
+060375510002_060375510006 : Florence Avenue , Downey
+060375505004_060375510002 : Newville Avenue , Downey
+060375505004_060375510001 : Florence Avenue , Downey
+060375503007_060375510001 : Firestone Boulevard , Downey
+060375503004_060375510001 : Firestone Boulevard , Downey
+060375504001_060375510001 : San Gabriel River Mid Trail , Downey
+060375510001_060375511021 : Pangborn Avenue , Downey
+060376513024_060376703244 : Boundary Trail , Redondo Beach
+060376513024_060376513045 : Vía Los Miradores , Redondo Beach
+060376513024_060376513044 : Calle Mayor , Redondo Beach
+060375510005_060375510006 : Chaney Avenue , Downey
+060375510004_060375510006 : Chaney Avenue , Downey
+060375505005_060375510006 : Downey & Sanford Bridge Road , Downey
+060375505004_060375510006 : Florence Avenue , Downey
+060375510004_060375510005 : Gotham Street , Downey
+060375505005_060375510005 : Chaney Avenue , Downey
+060375505006_060375510005 : Florence Avenue , Downey
+060375506024_060375510005 : Lakewood Boulevard , Downey
+060375509023_060375510005 : Lakewood Boulevard , Downey
+060375509021_060375510005 : Lakewood Boulevard , Downey
+060375509012_060375510004 : Lakewood Boulevard , Downey
+060375509013_060375510004 : Cecilia Street , Downey
+060375509023_060375510004 : Gotham Street , Downey
+060374828002_060374828003 : East Markland Drive , Monterey Park
+060374828001_060374828002 : East Markland Drive , Monterey Park
+060374827011_060374828002 : East Riggin Street , Monterey Park
+060374828002_060375302031 : North Garfield Avenue , Monterey Park
+060374828002_060375300052 : East Pomona Boulevard , Monterey Park
+060374828002_060375302022 : North Garfield Avenue , Monterey Park
+060374828001_060374828003 : East Markland Drive , Monterey Park
+060374827011_060374828003 : Garfield Avenue South , Monterey Park
+060374827021_060374828003 : Coral View Street , Monterey Park
+060374825223_060374828001 : Paramount Boulevard , Montebello
+060374826002_060374828001 : Potrero Grande Drive , Monterey Park
+060374826004_060374828001 : Fulton Avenue , Monterey Park
+060374827021_060374828001 : Keller Street , Monterey Park
+060374828001_060375300052 : East Markland Drive , Monterey Park
+060374828001_060375300051 : Westmoreland Drive , Montebello
+060374826003_060374828001 : Wilcox Avenue , Monterey Park
+060374050012_060374050013 : Stewart Avenue , Baldwin Park
+060374050011_060374050012 : North Baldwin Park Boulevard , Baldwin Park
+060374050012_060374051012 : Olive Street , Baldwin Park
+060374049013_060374050012 : Olive Street , Baldwin Park
+060374046002_060374050012 : North Baldwin Park Boulevard , Baldwin Park
+060374050013_060374051012 : Olive Street , Baldwin Park
+060374049011_060374050013 : Olive Street , Baldwin Park
+060374049012_060374050013 : Olive Street , Baldwin Park
+060374049013_060374050013 : Merced Avenue , Baldwin Park
+060374046002_060374050013 : San Gabriel River Trail , Irwindale
+060374050011_060374051011 : Olive Street , Baldwin Park
+060374050011_060374051012 : North Baldwin Park Boulevard , Baldwin Park
+060374050011_060374050022 : Olive Street , Baldwin Park
+060374046002_060374050011 : Bleecker Street , Baldwin Park
+060375360001_060375360002 : Firestone Boulevard , South Gate
+060375357021_060375360002 : San Vincente Avenue , South Gate
+060375359011_060375360002 : Southern Avenue , South Gate
+060375359013_060375360002 : Southern Avenue , South Gate
+060375360002_060375361032 : Southern Avenue , South Gate
+060375359014_060375360002 : Southern Avenue , South Gate
+060375359012_060375360002 : Southern Avenue , South Gate
+060375343012_060375360001 : Atlantic Avenue , Cudahy
+060375343011_060375360001 : Ardine Street , South Gate
+060375357021_060375360001 : San Vincente Avenue , South Gate
+060375345021_060375360001 : Santa Ana Street , Huntington Park
+060375360001_060375361041 : Atlantic Avenue , South Gate
+060375357011_060375360001 : Santa Ana Street , Huntington Park
+060375360001_060375361031 : Firestone Boulevard , South Gate
+060375360001_060375361032 : Firestone Boulevard , South Gate
+060372406001_060372406002 : Towne Avenue , Los Angeles
+060372406001_060372406003 : South San Pedro Street , Los Angeles
+060372406001_060372406004 : Wall Street , Los Angeles
+060372400201_060372406001 : Avalon Boulevard , Los Angeles
+060372400202_060372406001 : Avalon Boulevard , Los Angeles
+060372405001_060372406001 : East 95th Street , Los Angeles
+060372406001_060372407004 : Avalon Boulevard , Los Angeles
+060372402002_060372406001 : East 93rd Street , Los Angeles
+060372406002_060372406003 : East 103rd Street , Los Angeles
+060372406002_060372407005 : East 104th Street , Los Angeles
+060372406002_060372407004 : Avalon Boulevard , Los Angeles
+060372406002_060372408003 : Towne Avenue , Los Angeles
+060372406003_060372406004 : South San Pedro Street , Los Angeles
+060372406003_060372411102 : East 104th Street , Los Angeles
+060372406003_060372408003 : East 104th Street , Los Angeles
+060372405001_060372406004 : Wall Street , Los Angeles
+060372405003_060372406004 : Wall Street , Los Angeles
+060372405002_060372406004 : Wall Street , Los Angeles
+060372406004_060372411102 : Wall Street , Los Angeles
+060372406004_060372408003 : East 104th Street , Los Angeles
+060375518002_060375518003 : Lakewood Boulevard , Downey
+060375517001_060375518003 : Imperial Highway , Downey
+060375512023_060375518003 : Imperial Highway , Downey
+060375511011_060375518003 : Columbia Way , Downey
+060375518002_060375518004 : Bellflower Boulevard , Downey
+060375517001_060375518002 : Lakewood Boulevard , Downey
+060375518002_060375532007 : Columbia Way , Downey
+060375518002_060375532006 : Ardis Avenue , Downey
+060375518002_060375532005 : Bellflower Boulevard , Downey
+060375511012_060375518002 : Bellflower Boulevard , Downey
+060375511011_060375518002 : Bellflower Boulevard , Downey
+060375518002_060375534001 : Gardendale Street , Downey
+060375518002_060375533001 : Gardendale Street , Downey
+060371918202_060371918203 : Melrose Avenue , Los Angeles
+060371918201_060371918203 : Cole Avenue , Los Angeles
+060371918203_060371923003 : Melrose Avenue , Los Angeles
+060371918203_060371923001 : Melrose Avenue , Los Angeles
+060371918102_060371918203 : North El Centro Avenue , Los Angeles
+060371918103_060371918203 : Cole Avenue , Los Angeles
+060371918101_060371918203 : North El Centro Avenue , Los Angeles
+060371918202_060371923001 : Melrose Avenue , Los Angeles
+060371917101_060371918202 : Melrose Avenue , Los Angeles
+060371918102_060371918202 : North El Centro Avenue , Los Angeles
+060371918101_060371918202 : North Gower Street , Los Angeles
+060371918202_060371924104 : Melrose Avenue , Los Angeles
+060375518004_060375518005 : Dunrobin Avenue , Downey
+060375518001_060375518005 : Foster Road , Downey
+060375518005_060375532003 : Foster Road , Downey
+060375518005_060375532005 : Dunrobin Avenue , Downey
+060375518005_060375532004 : Foster Road , Downey
+060375511013_060375518005 : Woodruff Avenue , Downey
+060375511012_060375518005 : Dunrobin Avenue , Downey
+060375511021_060375518005 : Imperial Highway , Downey
+060375518004_060375532006 : Bellflower Boulevard , Downey
+060375518004_060375532005 : Bellflower Boulevard , Downey
+060375511013_060375518004 : Dunrobin Avenue , Downey
+060375511012_060375518004 : Dunrobin Avenue , Downey
+060375511011_060375518004 : Bellflower Boulevard , Downey
+060372766031_060372766032 : Falmouth Avenue , Los Angeles
+060372766032_060372781021 : Pershing Drive , Los Angeles
+060372766032_060379800281 : Pershing Drive , Los Angeles
+060372766014_060372766032 : West Manchester Avenue , Los Angeles
+060372766032_060372781023 : Pershing Drive , Los Angeles
+060372766031_060372766042 : Saint Bernard Street , Los Angeles
+060372766031_060379800281 : Falmouth Avenue , Los Angeles
+060372766014_060372766031 : Gulana Avenue , Los Angeles
+060372766013_060372766031 : Gulana Avenue , Los Angeles
+060372675012_060372675013 : Nebraska Avenue , Los Angeles
+060372674021_060372675013 : Santa Monica Boulevard , Los Angeles
+060372674041_060372675013 : South Westgate Avenue , Los Angeles
+060372675013_060372675022 : Idaho Avenue , Los Angeles
+060372675013_060372676003 : Nebraska Avenue , Los Angeles
+060372675013_060372676001 : Nebraska Avenue , Los Angeles
+060372675013_060372675021 : Brockton Avenue , Los Angeles
+060372675011_060372675012 : Nebraska Avenue , Los Angeles
+060372674041_060372675012 : Ohio Avenue , Los Angeles
+060372675012_060372676003 : Nebraska Avenue , Los Angeles
+060372675012_060372676001 : Nebraska Avenue , Los Angeles
+060372674041_060372675011 : Ohio Avenue , Los Angeles
+060372673002_060372675011 : Federal Avenue , Los Angeles
+060372675011_060372676001 : Nebraska Avenue , Los Angeles
+060372674031_060372675011 : Federal Avenue , Los Angeles
+060372675011_060372677001 : Federal Avenue , Los Angeles
+060371171012_060371174051 : Sepulveda Boulevard , Los Angeles
+060371172022_060371174051 : Nordhoff Street , Los Angeles
+060371174041_060371174051 : San Diego Freeway , Los Angeles
+060371174051_060371175201 : Rayen Street , Los Angeles
+060371174051_060371175101 : Rayen Street , Los Angeles
+060371172011_060371174051 : Sepulveda Boulevard , Los Angeles
+060371174051_060371174071 : San Diego Freeway , Los Angeles
+060375013001_060375013004 : Beverly Boulevard , Whittier
+060375013001_060375013003 : Palm Avenue , Whittier
+060375013001_060375013002 : Magnolia Avenue , Whittier
+060375013001_060375015011 : Pickering Avenue , Whittier
+060375012001_060375013001 : Workman Mill Road , Whittier
+060373106012_060373106013 : Church Street , Burbank
+060373106011_060373106013 : Grismer Avenue , Burbank
+060373106011_060373106012 : Scott Road , Burbank
+060373106012_060373107012 : West Burbank Boulevard , Burbank
+060373104001_060373106012 : North Glenoaks Boulevard , Burbank
+060373104002_060373106012 : Winona Avenue , Burbank
+060373104003_060373106012 : North San Fernando Boulevard , Burbank
+060373106012_060373108001 : West Burbank Boulevard , Burbank
+060373106012_060373106021 : North San Fernando Boulevard , Burbank
+060373106012_060373106022 : North San Fernando Boulevard , Burbank
+060373106012_060373109001 : North Lake Street , Burbank
+060373105011_060373106012 : North San Fernando Boulevard , Burbank
+060373105012_060373106012 : North San Fernando Boulevard , Burbank
+060375013004_060375013005 : Broadway , Whittier
+060375013005_060375013006 : El Rancho Drive , Whittier
+060375010025_060375013005 : Broadway , Whittier
+060375010021_060375013005 : Whittier Boulevard , Whittier
+060375013005_060375014003 : Broadway , Whittier
+060375010013_060375013005 : Redman Avenue , Whittier
+060375012002_060375013005 : Redman Avenue , Whittier
+060375010022_060375013005 : Whittier Boulevard , Whittier
+060375013004_060375013006 : Norwalk Boulevard , Whittier
+060375013003_060375013004 : Broadway , Whittier
+060375013004_060375014003 : Broadway , Whittier
+060375012002_060375013004 : The Whittier Greenway Trail , Whittier
+060375012001_060375013004 : Beverly Boulevard , Whittier
+060375012002_060375013006 : Norwalk Boulevard , Whittier
+060375326062_060375331051 : Randolph Street , Huntington Park
+060375326063_060375331051 : Miles Avenue , Huntington Park
+060375326061_060375331051 : Miles Avenue , Huntington Park
+060375331051_060375332011 : Cedar Street , Huntington Park
+060375331051_060375331062 : Miles Avenue , Huntington Park
+060375325003_060375331051 : Randolph Street , Huntington Park
+060375331051_060375332021 : Cedar Street , Huntington Park
+060374615022_060374615023 : East Washington Boulevard , Pasadena
+060374615021_060374615022 : Marengo Avenue , Pasadena
+060374615022_060374620023 : Fair Oaks Avenue , Pasadena
+060374611004_060374615022 : Marengo Avenue , Pasadena
+060374615022_060374620011 : East Washington Boulevard , Pasadena
+060374610001_060374615022 : Fair Oaks Avenue , Pasadena
+060374609001_060374615022 : Fair Oaks Avenue , Pasadena
+060374609002_060374615022 : Fair Oaks Avenue , Pasadena
+060374615022_060374616001 : Fair Oaks Avenue , Pasadena
+060374615021_060374615023 : East Penn Street , Pasadena
+060374615023_060374615024 : East Washington Boulevard , Pasadena
+060374615023_060374620023 : East Washington Boulevard , Pasadena
+060374615023_060374620011 : East Washington Boulevard , Pasadena
+060374615021_060374615024 : East Penn Street , Pasadena
+060374615013_060374615021 : North Los Robles Avenue , Pasadena
+060374615011_060374615021 : Atchison Street , Pasadena
+060374611002_060374615021 : East Woodbury Road , Altadena
+060374611004_060374615021 : East Woodbury Road , Altadena
+060371349051_060371351142 : Victory Boulevard , Los Angeles
+060371349031_060371349051 : De Soto Avenue , Los Angeles
+060371349051_060371371041 : Canoga Avenue , Los Angeles
+060371349051_060371371042 : Oxnard Street , Los Angeles
+060371349051_060371351131 : Canoga Avenue , Los Angeles
+060371349042_060371349051 : Victory Boulevard , Los Angeles
+060371349041_060371349051 : Mason Avenue , Los Angeles
+060371349051_060371393011 : Oxnard Street , Los Angeles
+060371349051_060371371032 : Canoga Avenue , Los Angeles
+060374615013_060374615024 : East Ladera Street , Pasadena
+060374615012_060374615024 : North Los Robles Avenue , Pasadena
+060374615024_060374620011 : East Washington Boulevard , Pasadena
+060374615024_060374621003 : North Los Robles Avenue , Pasadena
+060375512024_060375513002 : Brookshire Avenue , Downey
+060375512024_060375513003 : Downey Avenue , Downey
+060375512024_060375513001 : Brookshire Avenue , Downey
+060375512023_060375512024 : Downey Avenue , Downey
+060375512022_060375512024 : Birchdale Avenue , Downey
+060375512021_060375512024 : Patton Road , Downey
+060375512012_060375512024 : Alameda Street , Downey
+060375512011_060375512024 : Downey Avenue , Downey
+060372431002_060372431003 : East 115th Street , Los Angeles
+060372431002_060375406002 : Imperial Highway , Los Angeles
+060372431002_060375405012 : Mona Boulevard , Lynwood
+060372431002_060375404002 : Mona Boulevard , Lynwood
+060372431003_060375406002 : Wilmington Avenue , Los Angeles
+060372427003_060372431003 : Wilmington Avenue , Los Angeles
+060372427002_060372431003 : East 112th Street , Los Angeles
+060372431003_060375407002 : Wilmington Avenue , Los Angeles
+060372427004_060372431003 : Wilmington Avenue , Los Angeles
+060372075021_060372077101 : West 5th Street , Los Angeles
+060372073012_060372077101 : South Hill Street , Los Angeles
+060372077101_060372242001 : Pico Boulevard , Los Angeles
+060372077101_060372092001 : West 5th Street , Los Angeles
+060372077101_060372100102 : Harbor Frwy and Transit Way , Los Angeles
+060372077101_060372093002 : 7th Street , Los Angeles
+060372077101_060372240102 : Pico Boulevard , Los Angeles
+060372077101_060372079002 : South Figueroa Street , Los Angeles
+060372077101_060372079001 : West 9th Street , Los Angeles
+060375351021_060375352001 : Prince Avenue , Los Angeles
+060375351022_060375352001 : Graham Avenue , Los Angeles
+060375351023_060375352001 : Zamora Avenue , Los Angeles
+060372400203_060375352001 : East 89th Street , Los Angeles
+060375352001_060375354001 : East 92nd Street , Los Angeles
+060372422004_060375352001 : East 92nd Street , Los Angeles
+060372423001_060375352001 : Compton Avenue , Florence-Graham
+060372400103_060375352001 : East 88th Place , Los Angeles
+060372755001_060372755002 : Inglewood Boulevard , Los Angeles
+060372755001_060372755004 : Braddock Drive , Los Angeles
+060372751022_060372755001 : Culver Boulevard , Los Angeles
+060372751021_060372755001 : Braddock Drive , Culver City
+060372752002_060372755001 : Inglewood Boulevard , Los Angeles
+060372752003_060372755001 : Culver Boulevard , Los Angeles
+060372084011_060372084012 : Miramar Street , Los Angeles
+060372084011_060372084022 : Beverly Boulevard , Los Angeles
+060372083011_060372084011 : South Union Avenue , Los Angeles
+060372084011_060372091041 : South Union Avenue , Los Angeles
+060372084011_060372089041 : West 3rd Street , Los Angeles
+060372084011_060372089042 : West 3rd Street , Los Angeles
+060372083021_060372084011 : Beverly Boulevard , Los Angeles
+060372084011_060372089031 : West 3rd Street , Los Angeles
+060372755002_060372755003 : Marshall Street , Los Angeles
+060372755003_060372755004 : Inglewood Boulevard , Culver City
+060372755003_060372756033 : Centinela Avenue , Los Angeles
+060372755003_060372756032 : Inglewood Boulevard , Culver City
+060372753114_060372755003 : Marshall Street , Los Angeles
+060372755002_060372755004 : Marshall Street , Los Angeles
+060372752002_060372755002 : Inglewood Boulevard , Los Angeles
+060372752003_060372755002 : Inglewood Boulevard , Los Angeles
+060372753113_060372755002 : Culver Boulevard , Los Angeles
+060372753114_060372755002 : Centinela Avenue , Los Angeles
+060372755004_060372756033 : Inglewood Boulevard , Culver City
+060372755004_060372756032 : Inglewood Boulevard , Culver City
+060372751021_060372755004 : Ballona Creek Bike Path , Los Angeles
+060372755004_060377026004 : Ballona Creek Bike Path , Los Angeles
+060375349001_060375349002 : Nadeau Street , Los Angeles
+060375349002_060375353002 : Nadeau Street , Los Angeles
+060375349002_060375353003 : East 81st Street , Los Angeles
+060375349002_060375349004 : East 76th Place , Los Angeles
+060375349002_060375349003 : Lou Dillon Avenue , Los Angeles
+060375349002_060375351011 : Bell Avenue , Los Angeles
+060371012101_060371012102 : Foothill Boulevard , Los Angeles
+060371012102_060371014001 : Foothill Boulevard , Los Angeles
+060371012102_060371034001 : Foothill Boulevard , Los Angeles
+060371011102_060371012102 : Apperson Street , Los Angeles
+060371011101_060371012102 : Samoa Avenue , Los Angeles
+060371012101_060371014001 : Foothill Boulevard , Los Angeles
+060371012101_060371014002 : Foothill Boulevard , Los Angeles
+060371012101_060371014003 : Foothill Boulevard , Los Angeles
+060371012101_060371012201 : Valmont Street , Los Angeles
+060371012101_060371012202 : Foothill Boulevard , Los Angeles
+060371011101_060371012101 : Apperson Street , Los Angeles
+060375331032_060375349001 : Florence Avenue , Walnut Park
+060375348031_060375349001 : Broadway , Walnut Park
+060375330022_060375349001 : Alameda Street , Huntington Park
+060375349001_060375353002 : Nadeau Street , Los Angeles
+060375348041_060375349001 : Broadway , Walnut Park
+060375349001_060375349003 : East 76th Street , Los Angeles
+060375331031_060375349001 : Florence Avenue , Walnut Park
+060372084012_060372084021 : South Westlake Avenue , Los Angeles
+060372084012_060372084022 : Beverly Boulevard , Los Angeles
+060372084012_060372085023 : Beverly Boulevard , Los Angeles
+060372084012_060372085022 : South Alvarado Street , Los Angeles
+060372084012_060372089042 : West 3rd Street , Los Angeles
+060372084012_060372088011 : West 3rd Street , Los Angeles
+060372084012_060372085011 : Beverly Boulevard , Los Angeles
+060372084012_060372089031 : West 3rd Street , Los Angeles
+060372084012_060372089032 : West 3rd Street , Los Angeles
+060372611021_060372611022 : Summitridge Drive , Beverly Hills
+060371439011_060372611021 : Mulholland Drive , Beverly Hills
+060372611021_060377007001 : Summitridge Place , Beverly Hills
+060372611012_060372611021 : North Beverly Drive , Beverly Hills
+060371439022_060372611021 : Mulholland Drive , Beverly Hills
+060371417002_060372611022 : Mulholland Drive , Los Angeles
+060372611022_060377007001 : Benedict Canyon Drive , Beverly Hills
+060371439022_060372611022 : Mulholland Drive , Beverly Hills
+060372611022_060372612002 : Benedict Canyon Drive , Beverly Hills
+060371313003_060371313004 : White Oak Avenue , Los Angeles
+060371313004_060371319004 : White Oak Avenue , Los Angeles
+060371313004_060371318001 : Hesperia Avenue , Los Angeles
+060371312002_060371313004 : White Oak Avenue , Los Angeles
+060371313004_060371314002 : Keswick Street , Los Angeles
+060371313004_060371318002 : Lindley Avenue , Los Angeles
+060374635001_060374635003 : East Del Mar Boulevard , Pasadena
+060374635002_060374635003 : East California Boulevard , Pasadena
+060374623022_060374635003 : North Wilson Avenue , Pasadena
+060374623021_060374635003 : North Wilson Avenue , Pasadena
+060374635003_060374636013 : East Colorado Boulevard , Pasadena
+060374635003_060374640002 : East California Boulevard , Pasadena
+060374622021_060374635003 : East Colorado Boulevard , Pasadena
+060374635001_060374635002 : East Del Mar Boulevard , Pasadena
+060374623022_060374635001 : North Wilson Avenue , Pasadena
+060374623023_060374635001 : East Colorado Boulevard , Pasadena
+060374623021_060374635001 : North Michigan Avenue , Pasadena
+060374634003_060374635001 : San Pasqual Street , Pasadena
+060374627004_060374635001 : East Colorado Boulevard , Pasadena
+060371283031_060371283032 : Van Nuys Boulevard , Los Angeles
+060371283032_060371286012 : Van Nuys Boulevard , Los Angeles
+060371283032_060371284003 : Kester Avenue , Los Angeles
+060371283032_060371284002 : Kester Avenue , Los Angeles
+060371283032_060371284001 : Cedros Avenue , Los Angeles
+060371283021_060371283032 : Erwin Street , Los Angeles
+060371283022_060371283032 : Cedros Avenue , Los Angeles
+060371282101_060371283032 : Van Nuys Boulevard , Los Angeles
+060371282102_060371283032 : Van Nuys Boulevard , Los Angeles
+060371278061_060371283031 : Van Nuys Boulevard , Los Angeles
+060371283022_060371283031 : Cedros Avenue , Los Angeles
+060371282101_060371283031 : Van Nuys Boulevard , Los Angeles
+060371282102_060371283031 : Van Nuys Boulevard , Los Angeles
+060371281022_060371283031 : Van Nuys Boulevard , Los Angeles
+060371313002_060371313003 : White Oak Avenue , Los Angeles
+060371312003_060371313003 : White Oak Avenue , Los Angeles
+060371312002_060371313003 : White Oak Avenue , Los Angeles
+060371313003_060371314001 : Lindley Avenue , Los Angeles
+060371313003_060371314002 : Lindley Avenue , Los Angeles
+060375319011_060375319013 : East Hereford Drive , East Los Angeles
+060375319011_060375319012 : Allston Street , East Los Angeles
+060375319011_060375319014 : Ferguson Drive , Commerce
+060375318001_060375319011 : Whittier Boulevard , East Los Angeles
+060375318002_060375319011 : South Hendricks Avenue , East Los Angeles
+060375319011_060375323033 : Simmons Avenue , Commerce
+060375317012_060375319011 : Whittier Boulevard , East Los Angeles
+060375319012_060375319013 : West Northside Drive , East Los Angeles
+060375319013_060375319014 : East Hereford Drive , East Los Angeles
+060375319013_060375319021 : West Northside Drive , East Los Angeles
+060375319013_060375319022 : Southside Drive , East Los Angeles
+060375319013_060375319023 : Southside Drive , East Los Angeles
+060375318003_060375319012 : Whittier Boulevard , East Los Angeles
+060375318002_060375319012 : Whittier Boulevard , East Los Angeles
+060375319012_060375319021 : West Northside Drive , East Los Angeles
+060375319012_060375319022 : West Northside Drive , East Los Angeles
+060375319014_060375319022 : Southside Drive , East Los Angeles
+060375319014_060375319023 : Ferguson Drive , East Los Angeles
+060375319014_060375323033 : Ferguson Drive , Commerce
+060373003013_060373003015 : Foothill Boulevard , Glendale
+060373003012_060373003015 : Lauderdale Avenue , Glendale
+060373003015_060373004006 : Foothill Boulevard , Glendale
+060373003015_060373004004 : Foothill Boulevard , Glendale
+060371013001_060373003015 : Lowell Avenue , Los Angeles
+060373003011_060373003014 : Santa Carlotta Street , Glendale
+060373003013_060373003014 : Santa Carlotta Street , Glendale
+060373003012_060373003014 : Paraiso Way , Glendale
+060373003011_060373003016 : Pennsylvania Avenue , La Crescenta-Montrose
+060373003013_060373003016 : New York Avenue , Glendale
+060373003016_060373004003 : New York Avenue , Glendale
+060373003016_060373005013 : Foothill Boulevard , Glendale
+060373003016_060373004001 : New York Avenue , Glendale
+060373002005_060373003016 : Foothill Boulevard , Glendale
+060373001004_060373003016 : Pennsylvania Avenue , La Crescenta-Montrose
+060373003011_060373003013 : Santa Carlotta Street , Glendale
+060373003011_060373003012 : North Hidden Trail , Glendale
+060373003011_060379301011 : Cresenta View Trail , Glendale
+060373003011_060379800261 : Rim of the Valley Trail , Glendale
+060373001004_060373003011 : Pennsylvania Avenue , La Crescenta-Montrose
+060373001001_060373003011 : Hopeton Road , La Crescenta-Montrose
+060371013001_060373003011 : Sky View Lane , Glendale
+060373003012_060373003013 : Santa Carlotta Street , Glendale
+060373003013_060373004003 : Foothill Boulevard , Glendale
+060373003013_060373004001 : New York Avenue , Glendale
+060373003013_060373004004 : Foothill Boulevard , Glendale
+060371013001_060373003012 : Lowell Avenue , Glendale
+060375501004_060375501005 : Norwalk Boulevard , Norwalk
+060375501005_060375501006 : Norwalk Boulevard , Norwalk
+060375501003_060375501005 : Norwalk Boulevard , Norwalk
+060375501005_060375522002 : Imperial Highway , Norwalk
+060375501005_060375523011 : Imperial Highway , Norwalk
+060375500001_060375501005 : Imperial Highway , Norwalk
+060375501004_060375501006 : Arlee Avenue , Norwalk
+060375501003_060375501004 : Norwalk Boulevard , Norwalk
+060375501001_060375501006 : Pluton Street , Norwalk
+060375501003_060375501006 : Arlee Avenue , Norwalk
+060375501002_060375501006 : Pantheon Street , Norwalk
+060375501006_060375502022 : Pioneer Boulevard , Norwalk
+060375501006_060375522002 : Imperial Highway , Norwalk
+060375501006_060375523011 : Imperial Highway , Norwalk
+060375501006_060375520021 : Imperial Highway , Norwalk
+060375501006_060375502011 : Pioneer Boulevard , Norwalk
+060375501006_060375502012 : Pioneer Boulevard , Norwalk
+060375028021_060375501006 : Lakeland Road , Norwalk
+060375501001_060375501002 : Pluton Street , Norwalk
+060375028021_060375501001 : Lakeland Road , Norwalk
+060375028022_060375501001 : Norwalk Boulevard , Santa Fe Springs
+060375501002_060375501003 : Norwalk Boulevard , Norwalk
+060375500001_060375501003 : Norwalk Boulevard , Norwalk
+060375028022_060375501002 : Norwalk Boulevard , Santa Fe Springs
+060375500001_060375501002 : Norwalk Boulevard , Norwalk
+060374086262_060374086263 : Albatross Road , Rowland Heights
+060374082111_060374086262 : Colima Road , Rowland Heights
+060374086263_060374086282 : Tomich Road , Hacienda Heights
+060374086263_060374086283 : Colima Road , Hacienda Heights
+060374086263_060374086271 : Tomich Road , Hacienda Heights
+060374086231_060374086263 : Colima Road , Hacienda Heights
+060374082111_060374086263 : Colima Road , Rowland Heights
+060371171011_060371171012 : Noble Avenue , Los Angeles
+060371171011_060371193201 : Nordhoff Street , Los Angeles
+060371171011_060371201081 : Nordhoff Street , Los Angeles
+060371171011_060371175101 : Nordhoff Street , Los Angeles
+060371171011_060371193102 : Plummer Street , Los Angeles
+060371171011_060371171021 : Plummer Street , Los Angeles
+060371171011_060371171022 : Lemona Avenue , Los Angeles
+060371171012_060371175101 : Sepulveda Boulevard , Los Angeles
+060371171012_060371171022 : Plummer Street , Los Angeles
+060371171012_060371172011 : Tupper Street , Los Angeles
+060371171012_060371172012 : Sepulveda Boulevard , Los Angeles
+060372144001_060372145012 : Beverly Boulevard , Los Angeles
+060372144003_060372145012 : Beverly Boulevard , Los Angeles
+060372144002_060372145012 : Beverly Boulevard , Los Angeles
+060372145012_060372146001 : North Fairfax Avenue , Los Angeles
+060372145012_060372146002 : West 3rd Street , Los Angeles
+060372145012_060372145022 : South Burnside Avenue , Los Angeles
+060372140001_060372145012 : Beverly Boulevard , Los Angeles
+060371945001_060372145012 : North Fairfax Avenue , Los Angeles
+060372140002_060372145012 : West 3rd Street , Los Angeles
+060372145011_060372145012 : West 3rd Street , Los Angeles
+060372145012_060372145013 : West 3rd Street , Los Angeles
+060372047003_060372051101 : East 8th Street , Los Angeles
+060372051101_060372060501 : Soto Street , Los Angeles
+060372048201_060372051101 : East 8th Street , Los Angeles
+060372051101_060372051202 : Hostetter Street , Los Angeles
+060372051101_060372051201 : Glenn Avenue , Los Angeles
+060374800022_060374800023 : North Vista Street , San Gabriel
+060374800021_060374800022 : Sunnyslope Drive , San Gabriel
+060374800022_060374800123 : Longden Avenue , San Gabriel
+060374800022_060374800124 : Ardendale Avenue , San Gabriel
+060374800022_060374801021 : Longden Avenue , San Gabriel
+060374800022_060374801023 : Longden Avenue , San Gabriel
+060374800022_060374800112 : Duarte Road , San Gabriel
+060374800021_060374800023 : North Vista Street , San Gabriel
+060374642004_060374800023 : Duarte Road , San Marino
+060374800023_060374801021 : Longden Avenue , San Gabriel
+060374800023_060374801023 : Longden Avenue , San Gabriel
+060374800023_060374802022 : North San Gabriel Boulevard , San Gabriel
+060374642002_060374800021 : North San Gabriel Boulevard , San Gabriel
+060374642003_060374800021 : North San Gabriel Boulevard , San Gabriel
+060374642004_060374800021 : South San Gabriel Boulevard , San Marino
+060371154041_060371154042 : Geyser Avenue , Los Angeles
+060371154042_060371310101 : Roscoe Boulevard , Los Angeles
+060371154042_060371310102 : Roscoe Boulevard , Los Angeles
+060371154031_060371154042 : Malden Street , Los Angeles
+060371154042_060371314001 : Malden Street , Los Angeles
+060371154041_060371316001 : Roscoe Boulevard , Los Angeles
+060371154041_060371310101 : Roscoe Boulevard , Los Angeles
+060371154041_060371310102 : Roscoe Boulevard , Los Angeles
+060371153021_060371154041 : Wilbur Avenue , Los Angeles
+060371152023_060371154041 : Reseda Boulevard , Los Angeles
+060371152022_060371154041 : Wilbur Avenue , Los Angeles
+060371154031_060371154041 : Reseda Boulevard , Los Angeles
+060371153012_060371154041 : Wilbur Avenue , Los Angeles
+060372731001_060372731003 : Lake Street , Los Angeles
+060372731003_060372732002 : Pacific Coast Highway , Los Angeles
+060372731003_060372732003 : Pacific Coast Highway , Los Angeles
+060372731003_060372732001 : Lincoln Boulevard , Los Angeles
+060372731002_060372731003 : Lake Street , Los Angeles
+060372216011_060372216012 : Budlong Avenue , Los Angeles
+060372216011_060372217101 : West Adams Boulevard , Los Angeles
+060372216011_060372218101 : West Adams Boulevard , Los Angeles
+060372216011_060372218102 : West Adams Boulevard , Los Angeles
+060372216011_060372222001 : Budlong Avenue , Los Angeles
+060372216011_060372216021 : Christopher Columbus Transcontinental Highway , Los Angeles
+060372216011_060372216022 : Christopher Columbus Transcontinental Highway , Los Angeles
+060372731001_060372732001 : Lincoln Boulevard , Los Angeles
+060372731001_060372731002 : Lake Street , Los Angeles
+060372731001_060377022021 : Dewey Street , Santa Monica
+060372731001_060377022023 : Dewey Street , Santa Monica
+060372731001_060377022024 : Dewey Street , Santa Monica
+060372714002_060372731001 : Morningside Way , Los Angeles
+060372714003_060372731001 : Morningside Way , Los Angeles
+060372731001_060377023002 : Walgrove Avenue , Los Angeles
+060372172001_060372172004 : West 12th Street , Los Angeles
+060372172001_060372181101 : Venice Boulevard , Los Angeles
+060372172001_060372172002 : South Tremaine Avenue , Los Angeles
+060372128003_060372172001 : Pico Boulevard , Los Angeles
+060372128002_060372172001 : Pico Boulevard , Los Angeles
+060372172001_060372182201 : Venice Boulevard , Los Angeles
+060372172001_060372182202 : Venice Boulevard , Los Angeles
+060372161002_060372172001 : South Rimpau Boulevard , Los Angeles
+060374825031_060374825032 : Graves Avenue , Rosemead
+060374825021_060374825032 : Del Mar Avenue , Rosemead
+060374825032_060374825213 : Del Mar Avenue , Rosemead
+060374823042_060374825032 : Garvey Avenue , Rosemead
+060374823041_060374825032 : Del Mar Avenue , Rosemead
+060372172003_060372172004 : San Vicente Boulevard , Los Angeles
+060372172002_060372172003 : Venice Boulevard , Los Angeles
+060372162005_060372172003 : South Redondo Boulevard , Los Angeles
+060372162002_060372172003 : West 12th Street , Los Angeles
+060372171001_060372172003 : South Redondo Boulevard , Los Angeles
+060372171002_060372172003 : Pico Boulevard , Los Angeles
+060372161003_060372172003 : West 12th Street , Los Angeles
+060372172003_060372183002 : South Redondo Boulevard , Los Angeles
+060372172003_060372183003 : South Redondo Boulevard , Los Angeles
+060372172002_060372172004 : San Vicente Boulevard , Los Angeles
+060372162002_060372172004 : West 12th Street , Los Angeles
+060372161002_060372172004 : West 12th Street , Los Angeles
+060372161003_060372172004 : West 12th Street , Los Angeles
+060376201011_060376201012 : East Walnut Avenue , El Segundo
+060376201011_060376201021 : East Mariposa Avenue , El Segundo
+060376201011_060376201013 : Main Street , El Segundo
+060376200023_060376201011 : East Mariposa Avenue , El Segundo
+060376201011_060379800281 : Imperial Highway , Los Angeles
+060374064021_060374064022 : South Hollenbeck Street , West Covina
+060374064021_060374064023 : South Hollenbeck Street , West Covina
+060374064021_060374064122 : South Citrus Street , West Covina
+060374064021_060374080051 : South Hollenbeck Street , West Covina
+060374063002_060374064021 : East Vine Avenue , West Covina
+060374064022_060374064023 : East Vine Avenue , West Covina
+060374064022_060374064122 : East Cameron Avenue , West Covina
+060374064022_060374080051 : South Hollenbeck Street , West Covina
+060374064022_060374065002 : East Cameron Avenue , West Covina
+060374064022_060374066011 : South Azusa Avenue , West Covina
+060374064023_060374080052 : South Azusa Avenue , West Covina
+060374064023_060374080051 : East Merced Avenue , West Covina
+060374064023_060374066012 : South Azusa Avenue , West Covina
+060374064023_060374066011 : South Azusa Avenue , West Covina
+060372641021_060377011001 : Chenault Street , Los Angeles
+060372641021_060372641031 : South Westgate Avenue , Los Angeles
+060372641021_060372654102 : South Barrington Place , Los Angeles
+060372640002_060372641021 : Granville Avenue , Los Angeles
+060372623021_060372641021 : South Barrington Avenue , Los Angeles
+060379203222_060379203223 : Avenue Rotella , Santa Clarita
+060379203221_060379203222 : Lyons Avenue , Santa Clarita
+060379203222_060379203361 : Orchard Village Road , Santa Clarita
+060379203131_060379203222 : Lyons Avenue , Santa Clarita
+060379203222_060379203313 : Orchard Village Road , Santa Clarita
+060379203122_060379203222 : Peachland Avenue , Santa Clarita
+060379203223_060379203361 : Lyons Avenue , Santa Clarita
+060379203122_060379203223 : Avenue Rotella , Santa Clarita
+060379203221_060379203361 : Orchard Village Road , Santa Clarita
+060379203221_060379203341 : Lyons Avenue , Santa Clarita
+060379203221_060379203342 : Wiley Canyon Road , Santa Clarita
+060379203131_060379203221 : Lyons Avenue , Santa Clarita
+060379203221_060379203313 : Orchard Village Road , Santa Clarita
+060376033012_060376033013 : Denker Avenue , Gardena
+060376033011_060376033013 : West 158th Street , Gardena
+060376033013_060376033022 : 166th Street , Gardena
+060376033013_060376033023 : West 165th Place , Gardena
+060376033013_060376033021 : 166th Street , Gardena
+060376030061_060376033013 : West 158th Street , Gardena
+060376031011_060376033012 : West 161st Street , Gardena
+060376031012_060376033012 : West Gardena Boulevard , Gardena
+060376033012_060376033021 : Denker Avenue , Gardena
+060376031021_060376033012 : South Normandie Avenue , Gardena
+060376030061_060376033012 : South Normandie Avenue , Gardena
+060376033011_060376500011 : West 164th Street , Torrance
+060376033011_060376033023 : West 164th Street , Torrance
+060376030061_060376033011 : West 158th Street , Gardena
+060376033011_060376034002 : Western Avenue , Gardena
+060371061111_060371061112 : Simshaw Avenue , Los Angeles
+060371061112_060379302002 : Lime Kiln Canyon Tr , Los Angeles
+060371061112_060371061122 : Lime Kiln Canyon Tr , Los Angeles
+060371061112_060371061121 : Sayre Street , Los Angeles
+060371060202_060371061112 : Sayre Street , Los Angeles
+060371061111_060379302002 : Lime Kiln Canyon Tr , Los Angeles
+060371061111_060371061122 : Eldridge Avenue , Los Angeles
+060371061111_060371061121 : Simshaw Avenue , Los Angeles
+060371132341_060371132342 : Parthenia Street , Los Angeles
+060371132341_060371134222 : Bryant Street , Los Angeles
+060371132341_060371134212 : Nordhoff Street , Los Angeles
+060371132341_060371134213 : Parthenia Street , Los Angeles
+060371132341_060371132371 : Nordhoff Street , Los Angeles
+060371132333_060371132341 : Nordhoff Street , Los Angeles
+060371132332_060371132341 : Parthenia Street , Los Angeles
+060371132342_060371341032 : Roscoe Boulevard , Los Angeles
+060371132342_060371134221 : Roscoe Boulevard , Los Angeles
+060371132342_060371134222 : Chase Street , Los Angeles
+060371132333_060371132342 : Parthenia Street , Los Angeles
+060371132332_060371132342 : Canoga Avenue , Los Angeles
+060371132342_060371343051 : Roscoe Boulevard , Los Angeles
+060371132342_060371342011 : Roscoe Boulevard , Los Angeles
+060371132342_060371342013 : Roscoe Boulevard , Los Angeles
+060371233011_060371233012 : Hollywood Freeway , Los Angeles
+060371210203_060371233012 : Saticoy Street , Los Angeles
+060371232031_060371233012 : Hart Street , Los Angeles
+060371210202_060371233012 : Laurel Canyon Boulevard , Los Angeles
+060371233012_060371233041 : Hollywood Freeway , Los Angeles
+060371218011_060371233012 : Laurel Canyon Boulevard , Los Angeles
+060371232041_060371233012 : Hart Street , Los Angeles
+060371216002_060371233012 : Whitsett Avenue , Los Angeles
+060371224101_060371233012 : Runnymede Street , Los Angeles
+060371224102_060371233012 : Laurel Canyon Boulevard , Los Angeles
+060371233011_060371233013 : Laurel Canyon Boulevard , Los Angeles
+060371233013_060371239013 : Hollywood Freeway , Los Angeles
+060371233013_060371238001 : Hollywood Freeway , Los Angeles
+060371233013_060371233041 : Vanowen Street , Los Angeles
+060371233013_060371233043 : Vanowen Street , Los Angeles
+060371232041_060371233013 : Laurel Canyon Boulevard , Los Angeles
+060371232042_060371233013 : Laurel Canyon Boulevard , Los Angeles
+060371232031_060371233011 : Hart Street , Los Angeles
+060371233011_060371233041 : Hollywood Freeway , Los Angeles
+060371233011_060371233043 : Vanowen Street , Los Angeles
+060371232041_060371233011 : Laurel Canyon Boulevard , Los Angeles
+060371232042_060371233011 : Laurel Canyon Boulevard , Los Angeles
+060371372012_060371372013 : Dolorosa Street , Los Angeles
+060371372011_060371372012 : Shoup Avenue , Los Angeles
+060371372012_060371374013 : Ventura Freeway , Los Angeles
+060371370001_060371372012 : Dolorosa Street , Los Angeles
+060371372012_060371374023 : Fallbrook Avenue , Los Angeles
+060371372011_060371372013 : Dolorosa Street , Los Angeles
+060371372013_060371373011 : Oxnard Street , Los Angeles
+060371351131_060371372013 : Shoup Avenue , Los Angeles
+060371370001_060371372013 : Fallbrook Avenue , Los Angeles
+060371351022_060371372013 : Shoup Avenue , Los Angeles
+060371372011_060371374011 : Ventura Freeway , Los Angeles
+060371372011_060371374013 : Shoup Avenue , Los Angeles
+060371372011_060371375022 : Ventura Freeway , Los Angeles
+060371351131_060371372011 : Topanga Canyon Boulevard , Los Angeles
+060371351022_060371372011 : Shoup Avenue , Los Angeles
+060371371032_060371372011 : Ventura Freeway , Los Angeles
+060371942001_060371942002 : Sunset Plaza Drive , Los Angeles
+060371942001_060371943002 : Appian Way , Los Angeles
+060371941022_060371942001 : Laurel Canyon Boulevard , Los Angeles
+060371941021_060371942001 : Laurel Canyon Boulevard , Los Angeles
+060371942001_060372611011 : Lookout Mountain Avenue , Los Angeles
+060371942001_060371943003 : Lookout Mountain Avenue , Los Angeles
+060371898003_060371942001 : Laurel Canyon Boulevard , Los Angeles
+060371942002_060371943002 : Sunset Plaza Drive , Los Angeles
+060371942002_060377003002 : Miller Drive , West Hollywood
+060371941022_060371942002 : Laurel Canyon Boulevard , Los Angeles
+060371942002_060377002001 : North Crescent Heights Boulevard , West Hollywood
+060371942002_060377002005 : Roxbury Road , Los Angeles
+060371898003_060371942002 : North Crescent Heights Boulevard , West Hollywood
+060371942002_060377005021 : Sunset Plaza Drive , West Hollywood
+060371048211_060371048212 : Rincon Avenue , Los Angeles
+060371048103_060371048211 : Branford Street , Los Angeles
+060371048211_060371212102 : Laurel Canyon Boulevard , Los Angeles
+060371048211_060371048221 : Laurel Canyon Boulevard , Los Angeles
+060371048103_060371048212 : Osborne Street , Los Angeles
+060371048212_060371048221 : Laurel Canyon Boulevard , Los Angeles
+060371045002_060371048212 : Kagel Canyon Street , Los Angeles
+060371046201_060371048212 : Kagel Canyon Street , Los Angeles
+060375339021_060375339022 : Clara Street , Bell Gardens
+060375339022_060375341024 : Jaboneria Road , Bell Gardens
+060375339014_060375339022 : Florence Avenue , Bell Gardens
+060375339022_060375341023 : Florence Avenue , Bell Gardens
+060375339022_060375342021 : Clara Street , Bell Gardens
+060375339022_060375342022 : Clara Street , Bell Gardens
+060375339012_060375339021 : Darwell Avenue , Los Angeles
+060375339021_060375342031 : Clara Street , Bell Gardens
+060375339013_060375339021 : Loveland Street , Bell Gardens
+060375339014_060375339021 : Lubec Street , Bell Gardens
+060375339021_060375340013 : Clara Street , Bell Gardens
+060375339021_060375340012 : Florence Place , Bell Gardens
+060375339021_060375340011 : Garfield Avenue , Bell Gardens
+060375339021_060375342021 : Clara Street , Bell Gardens
+060375323042_060375339021 : Garfield Avenue , Commerce
+060375434002_060375434003 : East 189th Street , Carson
+060375434001_060375434002 : Avalon Boulevard , Carson
+060375433211_060375434002 : Avalon Boulevard , Carson
+060375410021_060375434002 : East Victoria Street , Carson
+060375434003_060375438011 : San Diego Freeway , Gardena
+060375434003_060375439031 : Avalon Boulevard , Carson
+060375434003_060375435011 : West 190th Street , Gardena
+060375433211_060375434003 : Avalon Boulevard , Carson
+060375433063_060375434003 : Avalon Boulevard , Carson
+060375433225_060375434003 : East Del Amo Boulevard , Carson
+060375410021_060375434003 : East Victoria Street , Carson
+060372913002_060375434003 : West 190th Street , Gardena
+060375433211_060375434001 : Avalon Boulevard , Carson
+060375410021_060375434001 : East Victoria Street , Carson
+060372112011_060372112012 : Beverly Boulevard , Los Angeles
+060371926202_060372112011 : Beverly Boulevard , Los Angeles
+060372112011_060372113101 : North Edgemont Street , Los Angeles
+060372112011_060372112021 : North Kenmore Avenue , Los Angeles
+060372112011_060372113202 : North Kenmore Avenue , Los Angeles
+060371926202_060372112012 : Beverly Boulevard , Los Angeles
+060372112012_060372114201 : Beverly Boulevard , Los Angeles
+060371925202_060372112012 : Beverly Boulevard , Los Angeles
+060372112012_060372113101 : North Normandie Avenue , Los Angeles
+060374083021_060374338021 : Peck Road , South El Monte
+060374083021_060375003001 : Peck Road , Whittier
+060374083011_060374083021 : Don Julian Road , La Puente
+060374083021_060374340041 : Thienes Avenue , South El Monte
+060374083021_060374083031 : Pellissier Place , City of Industry
+060374083012_060374083021 : Don Julian Road , Avocado Heights
+060374083021_060374340032 : San Gabriel River Trail , El Monte
+060374083021_060374340012 : San Gabriel River Trail , El Monte
+060374083021_060374084023 : San Gabriel River Freeway , City of Industry
+060374624003_060374624004 : East Orange Grove Boulevard , Pasadena
+060374614003_060374624004 : North Mentor Avenue , Pasadena
+060374622011_060374624004 : North Lake Avenue , Pasadena
+060374615012_060374624004 : East Washington Boulevard , Pasadena
+060374621002_060374624004 : East Mountain Street , Pasadena
+060374621001_060374624004 : North Lake Avenue , Pasadena
+060374623011_060374624004 : North Lake Avenue , Pasadena
+060374624001_060374624002 : East Washington Boulevard , Pasadena
+060374614002_060374624001 : East Washington Boulevard , Pasadena
+060374614001_060374624001 : Wesley Avenue , Pasadena
+060374624001_060374625004 : Whitefield Road , Pasadena
+060374624001_060374626002 : North Hill Avenue , Pasadena
+060374624001_060374626001 : North Hill Avenue , Pasadena
+060374623014_060374624001 : East Orange Grove Boulevard , Pasadena
+060374624001_060374627003 : North Hill Avenue , Pasadena
+060374624002_060374624003 : East Washington Boulevard , Pasadena
+060374614003_060374624002 : Mar Vista Avenue , Pasadena
+060374614002_060374624002 : East Washington Boulevard , Pasadena
+060374623014_060374624002 : East Orange Grove Boulevard , Pasadena
+060374623011_060374624002 : Mar Vista Avenue , Pasadena
+060374614003_060374624003 : East Washington Boulevard , Pasadena
+060374623011_060374624003 : East Orange Grove Boulevard , Pasadena
+060374012021_060374012023 : East Gladstone Street , Glendora
+060374012021_060374012022 : Foothill Freeway , Glendora
+060374012021_060374013121 : North Valley Center Avenue , Covina
+060374012011_060374012021 : North Amelia Avenue , San Dimas
+060374012012_060374012021 : Foothill Freeway , Glendora
+060374012021_060374013114 : Orange Freeway , San Dimas
+060374012021_060374013111 : West Allen Avenue , San Dimas
+060374012021_060374038023 : South Valley Center Avenue , Covina
+060375717012_060375717031 : Cedar Avenue , Long Beach
+060375717012_060375717034 : Cedar Avenue , Long Beach
+060375717012_060375717013 : Daisy Avenue , Long Beach
+060375717011_060375717012 : West Zane Street , Long Beach
+060375717012_060375717033 : Cedar Avenue , Long Beach
+060375717012_060375717032 : East Del Amo Boulevard , Long Beach
+060374012022_060374012023 : East Gladstone Street , Glendora
+060374012023_060374012032 : South Sunflower Avenue , Glendora
+060374012023_060374038023 : North Sunflower Avenue , Covina
+060374012023_060374038022 : North Sunflower Avenue , Covina
+060374011012_060374012022 : South Sunflower Avenue , Glendora
+060374012011_060374012022 : Foothill Freeway , Glendora
+060374012012_060374012022 : Foothill Freeway , Glendora
+060374012022_060374012032 : South Sunflower Avenue , Glendora
+060374809031_060374819012 : West Ramona Road , Alhambra
+060374809031_060374819011 : South Ethel Avenue , Alhambra
+060374809031_060374816051 : Christopher Columbus Transcontinental Highway , Alhambra
+060374809031_060374816052 : West Hellman Avenue , Monterey Park
+060374808021_060374809031 : South Ethel Avenue , Alhambra
+060374809022_060374809031 : South Atlantic Boulevard , Alhambra
+060374809031_060374819021 : Christopher Columbus Transcontinental Highway , Alhambra
+060374809031_060374818001 : West Hellman Avenue , Alhambra
+060374809031_060374816062 : South Atlantic Boulevard , Alhambra
+060374809031_060374817131 : West Hellman Avenue , Alhambra
+060375308012_060375308013 : Atwood Street , Los Angeles
+060375308013_060375308014 : Pomeroy Avenue , Los Angeles
+060375307001_060375308013 : North Herbert Avenue , Los Angeles
+060375308013_060375308022 : Ramboz Drive , Los Angeles
+060375308013_060375308021 : North Gage Avenue , Los Angeles
+060372032001_060375308013 : Christopher Columbus Transcontinental Highway , Los Angeles
+060372031003_060375308013 : Christopher Columbus Transcontinental Highway , Los Angeles
+060375308011_060375308012 : Dobinson Street , Los Angeles
+060375308012_060375308014 : City Terrace Drive , Los Angeles
+060372032002_060375308012 : Ganahl Street , Los Angeles
+060372032001_060375308012 : Atwood Street , Los Angeles
+060375308011_060375308014 : Blanchard Street , Los Angeles
+060372038001_060375308011 : Wabash Avenue , Los Angeles
+060372038002_060375308011 : Blanchard Street , Los Angeles
+060372032002_060375308011 : Dobinson Street , Los Angeles
+060375308011_060375309012 : Blanchard Street , Los Angeles
+060375308011_060375309013 : North Ditman Avenue , Los Angeles
+060375007005_060375025002 : Washington Boulevard , Pico Rivera
+060375007005_060375007006 : Washington Boulevard , Pico Rivera
+060375007004_060375007005 : Crossway Drive , Pico Rivera
+060375308014_060375309021 : North Gage Avenue , Los Angeles
+060375308014_060375309013 : Blanchard Street , Los Angeles
+060375308014_060375308021 : North Gage Avenue , Los Angeles
+060371864011_060371864012 : Drew Street , Los Angeles
+060371863021_060371864011 : West Avenue 36 , Los Angeles
+060371864011_060371864031 : Estara Avenue , Los Angeles
+060371863011_060371864011 : West Avenue 36 , Los Angeles
+060371863013_060371864011 : Fletcher Drive , Los Angeles
+060371863012_060371864011 : Estara Avenue , Los Angeles
+060371864012_060373025062 : South Glendale Avenue , Glendale
+060371864012_060371864031 : Glendale Freeway , Los Angeles
+060371864012_060371871022 : Casitas Avenue , Los Angeles
+060371864012_060371871011 : Tyburn Street , Glendale
+060371864012_060371864032 : Glendale Freeway , Los Angeles
+060371864012_060373025053 : Tyburn Street , Glendale
+060371863011_060371864012 : Estara Avenue , Los Angeles
+060371863013_060371864012 : Estara Avenue , Los Angeles
+060371863012_060371864012 : Estara Avenue , Los Angeles
+060372313003_060372313004 : West 38th Place , Los Angeles
+060372313001_060372313004 : Denker Avenue , Los Angeles
+060372220024_060372313004 : Exposition Boulevard , Los Angeles
+060372313004_060372314001 : Western Avenue , Los Angeles
+060372225003_060372313004 : Denker Avenue , Los Angeles
+060372313002_060372313003 : West Martin Luther King Junior Boulevard , Los Angeles
+060372313001_060372313003 : Dalton Avenue , Los Angeles
+060372313003_060372314002 : Western Avenue , Los Angeles
+060372313003_060372314001 : West 38th Place , Los Angeles
+060372313003_060372315001 : West Martin Luther King Junior Boulevard , Los Angeles
+060372313003_060372315003 : West Martin Luther King Junior Boulevard , Los Angeles
+060372313001_060372313002 : South Normandie Avenue , Los Angeles
+060372312102_060372313002 : South Normandie Avenue , Los Angeles
+060372313002_060372316004 : West Martin Luther King Junior Boulevard , Los Angeles
+060372313002_060372316005 : South Normandie Avenue , Los Angeles
+060372313002_060372315001 : West Martin Luther King Junior Boulevard , Los Angeles
+060372312102_060372313001 : South Normandie Avenue , Los Angeles
+060372226002_060372313001 : Exposition Boulevard , Los Angeles
+060372225003_060372313001 : Exposition Boulevard , Los Angeles
+060372312101_060372313001 : West 39th Street , Los Angeles
+060372392022_060372392023 : East 60th Street , Los Angeles
+060372392021_060372392022 : East 60th Street , Los Angeles
+060372294101_060372392022 : Slauson Avenue , Los Angeles
+060372294102_060372392022 : Slauson Avenue , Los Angeles
+060372392012_060372392022 : East 60th Street , Los Angeles
+060372392011_060372392022 : East 59th Place , Los Angeles
+060372328002_060372392022 : South Main Street , Los Angeles
+060372392021_060372392023 : East Gage Avenue , Los Angeles
+060372392023_060372393102 : South Main Street , Los Angeles
+060372392023_060372393301 : East Gage Avenue , Los Angeles
+060372392012_060372392023 : South Main Street , Los Angeles
+060372392011_060372392023 : East 60th Street , Los Angeles
+060372392023_060372393201 : South Main Street , Los Angeles
+060372392021_060375328002 : South Central Avenue , Los Angeles
+060372392021_060375329004 : South Central Avenue , Los Angeles
+060372392021_060372393301 : East Gage Avenue , Los Angeles
+060372294102_060372392021 : Avalon Boulevard , Los Angeles
+060372294202_060372392021 : East Slauson Avenue , Los Angeles
+060372392021_060372393201 : East Gage Avenue , Los Angeles
+060373007011_060373007012 : El Rito Avenue , Glendale
+060373007011_060373007015 : Hermosita Drive , Glendale
+060373007011_060373008004 : El Rito Avenue , Glendale
+060373007012_060373007013 : Opechee Way , Glendale
+060373007013_060373007015 : Polaris Drive , Glendale
+060373007013_060373007021 : Sunshine Drive , Glendale
+060373007013_060373008001 : Colina Drive , Glendale
+060373007013_060373008004 : Wabasso Way , Glendale
+060373007012_060373007015 : Opechee Way , Glendale
+060373007012_060373008004 : Opechee Way , Glendale
+060373007014_060373007015 : La Crescenta Avenue , Glendale
+060373006004_060373007015 : Canada Boulevard , Glendale
+060373007015_060373007021 : Kildonan Drive , Glendale
+060373007015_060373008004 : Glorietta Avenue , Glendale
+060373007015_060373007022 : Beaudry North Motorway , Glendale
+060373006005_060373007014 : El Lado Drive , Glendale
+060373006004_060373007014 : La Crescenta Avenue , Glendale
+060373007014_060379800201 : Lowell Avenue , Glendale
+060373004006_060373007014 : Lowell Avenue , Glendale
+060373004005_060373007014 : Dunsmore Avenue , Glendale
+060373004002_060373007014 : Whiting Woods Road , Glendale
+060373007014_060373007022 : Verdugo Motorway , Glendale
+060373007014_060373101001 : Verdugo Motorway , Burbank
+060375505001_060375505003 : Santa Ana Freeway , Downey
+060375505001_060375505002 : Telegraph Road , Downey
+060375505001_060375505004 : Santa Ana Freeway , Downey
+060375505001_060375506012 : Lindell Avenue , Downey
+060375505001_060375506011 : Lakewood Boulevard , Downey
+060375505001_060375506014 : Santa Ana Freeway , Downey
+060375027001_060375505001 : Telegraph Road , Santa Fe Springs
+060375026023_060375505001 : Serapis Avenue , Pico Rivera
+060375028011_060375505001 : Santa Ana Freeway , Santa Fe Springs
+060375025001_060375505001 : Lakewood Boulevard , Downey
+060375026013_060375505001 : Telegraph Road , Santa Fe Springs
+060375026014_060375505001 : Klinedale Avenue , Pico Rivera
+060375504001_060375505001 : San Gabriel River Mid Trail , Santa Fe Springs
+060375505003_060375505005 : Gallatin School House Road , Downey
+060375505003_060375505004 : Sideview Drive , Downey
+060375505003_060375505006 : Gallatin Road , Downey
+060375505003_060375506012 : Santa Ana Freeway , Downey
+060375505003_060375506014 : Lakewood Boulevard , Downey
+060375505003_060375506024 : Gallatin Road , Downey
+060375026023_060375505002 : Passons Boulevard , Pico Rivera
+060375026014_060375505002 : Telegraph Road , Downey
+060375505004_060375505005 : Downey & Sanford Bridge Road , Downey
+060375505005_060375505006 : Haledon Avenue , Downey
+060375504001_060375505004 : Florence Avenue , Downey
+060375505006_060375506014 : Gallatin Road , Downey
+060375505006_060375506024 : Lakewood Boulevard , Downey
+060375505006_060375509021 : Lakewood Boulevard , Downey
+060710008151_060710008152 : West 16th Street , Upland
+060710008151_060710008171 : West 16th Street , Upland
+060710008132_060710008151 : Foothill Freeway , Upland
+060710008151_060710008173 : East Baseline Road , Claremont
+060374018001_060710008151 : East Baseline Road , Claremont
+060374002051_060710008151 : Foothill Freeway , Upland
+060710008152_060710008171 : West 16th Street , Upland
+060710008132_060710008152 : North Mountain Avenue , Upland
+060710008152_060710008162 : West 18th Street , Upland
+060710008143_060710008152 : North Mountain Avenue , Upland
+060710008152_060710008163 : West 16th Street , Upland
+060371903011_060371903012 : North Gramercy Place , Los Angeles
+060371893003_060371903011 : Franklin Avenue , Los Angeles
+060371893002_060371903011 : Franklin Avenue , Los Angeles
+060371903011_060371904021 : North Western Avenue , Los Angeles
+060371903011_060371905101 : Saint Andrews Place North , Los Angeles
+060371903011_060371905102 : Hollywood Boulevard , Los Angeles
+060371903012_060371903013 : Canyon Drive , Los Angeles
+060371893003_060371903012 : North Gramercy Place , Los Angeles
+060371895001_060371903012 : Canyon Drive , Los Angeles
+060371903012_060371905102 : Hollywood Boulevard , Los Angeles
+060371893003_060371903013 : Canyon Drive , Los Angeles
+060371903013_060371910002 : Hollywood Freeway , Los Angeles
+060371903013_060371910001 : Hollywood Freeway , Los Angeles
+060371896002_060371903013 : Argyle Avenue , Los Angeles
+060371895002_060371903013 : Franklin Avenue , Los Angeles
+060371895001_060371903013 : Canyon Drive , Los Angeles
+060371903013_060371905102 : Hollywood Freeway , Los Angeles
+060376201012_060376201021 : West Mariposa Avenue , El Segundo
+060376201012_060376201023 : West Mariposa Avenue , El Segundo
+060376201012_060376201013 : West Walnut Avenue , El Segundo
+060371912011_060371912012 : North Vermont Avenue , Los Angeles
+060371905201_060371912012 : North Normandie Avenue , Los Angeles
+060371912012_060371913021 : North Vermont Avenue , Los Angeles
+060371912012_060371913022 : North Vermont Avenue , Los Angeles
+060371912012_060371912041 : North Normandie Avenue , Los Angeles
+060371911101_060371912012 : North Normandie Avenue , Los Angeles
+060371911201_060371912012 : North Normandie Avenue , Los Angeles
+060371891012_060371912011 : North Vermont Avenue , Los Angeles
+060371912011_060371953003 : North Vermont Avenue , Los Angeles
+060371905201_060371912011 : North Normandie Avenue , Los Angeles
+060371912011_060371913022 : North Vermont Avenue , Los Angeles
+060371911101_060371912011 : North Normandie Avenue , Los Angeles
+060371904012_060371912011 : North Normandie Avenue , Los Angeles
+060371892011_060371912011 : North Edgemont Street , Los Angeles
+060371892012_060371912011 : North Vermont Avenue , Los Angeles
+060371253102_060371253103 : Vineland Avenue , Los Angeles
+060371253101_060371253102 : Cahuenga Boulevard , Los Angeles
+060371243002_060371253102 : Burbank Boulevard , Los Angeles
+060371243003_060371253102 : Burbank Boulevard , Los Angeles
+060371243001_060371253102 : North Clybourn Avenue , Burbank
+060371253102_060373112003 : Chandler Bikeway , Burbank
+060371253102_060373112001 : West Chandler Boulevard , Burbank
+060371253102_060371253201 : Vineland Avenue , Los Angeles
+060371253102_060371253202 : Cleon Avenue , Los Angeles
+060371242041_060371253102 : Burbank Boulevard , Los Angeles
+060371252001_060371253103 : Tujunga Avenue , Los Angeles
+060371252002_060371253103 : Tujunga Avenue , Los Angeles
+060371243003_060371253103 : Burbank Boulevard , Los Angeles
+060371241022_060371253103 : Tujunga Avenue , Los Angeles
+060371253103_060371253201 : Tujunga Avenue , Los Angeles
+060371242041_060371253103 : Burbank Boulevard , Los Angeles
+060371242042_060371253103 : Fair Avenue , Los Angeles
+060371253101_060371255012 : Magnolia Boulevard , Los Angeles
+060371253101_060371256001 : Magnolia Boulevard , Los Angeles
+060371253101_060373112003 : Magnolia Boulevard , Los Angeles
+060371253101_060371253202 : Cahuenga Boulevard , Los Angeles
+060371253101_060373114002 : Ledge Avenue , Burbank
+060372678002_060372678003 : Pico Boulevard , Los Angeles
+060372678001_060372678003 : Military Avenue , Los Angeles
+060372678003_060372712001 : Pico Boulevard , Los Angeles
+060372677002_060372678003 : West Olympic Boulevard , Los Angeles
+060372678003_060372711003 : San Diego Freeway , Los Angeles
+060372678003_060372711002 : Military Avenue , Los Angeles
+060372672003_060372678003 : West Olympic Boulevard , Los Angeles
+060372678001_060372678002 : Pico Boulevard , Los Angeles
+060372671004_060372678002 : Overland Avenue , Los Angeles
+060372678002_060372693005 : Pico Boulevard , Los Angeles
+060372672003_060372678002 : Midvale Avenue , Los Angeles
+060372678002_060372679021 : Pico Boulevard , Los Angeles
+060372678001_060372693003 : Overland Avenue , Los Angeles
+060372678001_060372693004 : Ashby Avenue , Los Angeles
+060372678001_060372693005 : Overland Avenue , Los Angeles
+060372678001_060372711001 : Westwood Boulevard , Los Angeles
+060372678001_060372711003 : Military Avenue , Los Angeles
+060372678001_060372711002 : Military Avenue , Los Angeles
+060372678001_060372679021 : Pico Boulevard , Los Angeles
+060375328001_060375328002 : East 62nd Street , Los Angeles
+060375328002_060375329004 : South Central Avenue , Los Angeles
+060375328002_060375329001 : Hooper Avenue , Los Angeles
+060372294202_060375328002 : South Central Avenue , Los Angeles
+060372291002_060375328002 : Hooper Avenue , Los Angeles
+060372123041_060372124102 : West 7th Street , Los Angeles
+060372123041_060372124101 : Wilshire Boulevard , Los Angeles
+060372118022_060372123041 : Wilshire Boulevard , Los Angeles
+060372121021_060372123041 : South Kenmore Avenue , Los Angeles
+060372123041_060372123051 : South Normandie Avenue , Los Angeles
+060372123031_060372123041 : West 8th Street , Los Angeles
+060372121012_060372123041 : Wilshire Boulevard , Los Angeles
+060372123041_060372124201 : South Normandie Avenue , Los Angeles
+060373107031_060373107032 : East Providencia Avenue , Burbank
+060373015012_060373107031 : South 6th Street , Glendale
+060373102021_060373107031 : South Kenneth Road , Glendale
+060373107023_060373107031 : South 6th Street , Burbank
+060373014003_060373107031 : South Kenneth Road , Glendale
+060373015023_060373107031 : West Glenoaks Boulevard , Glendale
+060373107032_060373118011 : Golden State Freeway , Burbank
+060373016011_060373107032 : Golden State Freeway , Burbank
+060373107023_060373107032 : East Providencia Avenue , Burbank
+060373107022_060373107032 : Golden State Freeway , Burbank
+060373107032_060373118022 : Golden State Freeway , Burbank
+060373015023_060373107032 : East Spazier Avenue , Glendale
+060373016021_060373107032 : Golden State Freeway , Burbank
+060371271022_060371278031 : Sherman Way , Los Angeles
+060371272103_060371278031 : Kester Avenue , Los Angeles
+060371278031_060371278032 : Kester Avenue , Los Angeles
+060371272202_060371278031 : Sherman Way , Los Angeles
+060371278031_060371278041 : Kester Avenue , Los Angeles
+060371278031_060371279102 : Van Nuys Boulevard , Los Angeles
+060375328001_060375329001 : East 62nd Street , Los Angeles
+060375328001_060375330011 : Compton Avenue , Los Angeles
+060372291002_060375328001 : Compton Avenue , Los Angeles
+060372289001_060375328001 : Compton Avenue , Los Angeles
+060375327001_060375328001 : Compton Avenue , Los Angeles
+060374821012_060374821013 : Jade Tree Drive , Monterey Park
+060374820023_060374821012 : Monterey Pass Road , Monterey Park
+060374817141_060374821012 : North Atlantic Boulevard , Monterey Park
+060374819021_060374821012 : South Fremont Avenue , Alhambra
+060374818002_060374821012 : Garvey Avenue , Monterey Park
+060374820011_060374821012 : South Fremont Avenue , Alhambra
+060374821011_060374821013 : West Graves Avenue , Monterey Park
+060374820023_060374821013 : Jade Tree Drive , Monterey Park
+060374821013_060374821022 : Cadiz Street , Monterey Park
+060374817141_060374821013 : Garvey Avenue , Monterey Park
+060374821011_060374822012 : Harding Avenue , Monterey Park
+060374821011_060374822011 : South Mc Pherrin Avenue , Monterey Park
+060374821011_060374821022 : West Graves Avenue , Monterey Park
+060374821011_060374821021 : West Graves Avenue , Monterey Park
+060374817141_060374821011 : Garvey Avenue , Monterey Park
+060374817142_060374821011 : Garvey Avenue , Monterey Park
+060371021031_060371021072 : Mount Latuna Trail , Los Angeles
+060371021031_060371021042 : Golden State Freeway , Los Angeles
+060371021031_060371222003 : Roscoe Boulevard , Los Angeles
+060371021031_060371222001 : Roscoe Boulevard , Los Angeles
+060371021031_060371211012 : Vinedale Street , Los Angeles
+060371991201_060371991202 : North Broadway , Los Angeles
+060371991202_060372031001 : Soto Street , Los Angeles
+060371991202_060372033001 : East Valley Boulevard , Los Angeles
+060371991102_060371991202 : Huntington Drive South , Los Angeles
+060371991202_060372014021 : Multnomah Street , Los Angeles
+060371991202_060372014022 : East Valley Boulevard , Los Angeles
+060371991202_060371999002 : East Valley Boulevard , Los Angeles
+060371991202_060372014012 : Soto Street , Los Angeles
+060371991201_060371992022 : North Broadway , Los Angeles
+060371991102_060371991201 : North Broadway , Los Angeles
+060371991201_060371999002 : Thomas Street , Los Angeles
+060371991201_060371998002 : Thomas Street , Los Angeles
+060371991201_060371998001 : North Broadway , Los Angeles
+060372377201_060372377202 : South Hoover Street , Los Angeles
+060372377202_060372396022 : West 79th Street , Los Angeles
+060372377202_060372397012 : West 79th Street , Los Angeles
+060372377102_060372377202 : West 76th Street , Los Angeles
+060372377202_060372396012 : West 76th Street , Los Angeles
+060372377101_060372377202 : South Hoover Street , Los Angeles
+060372377202_060372383102 : South Hoover Street , Los Angeles
+060372377202_060372383101 : South Hoover Street , Los Angeles
+060372377102_060372377201 : South Hoover Street , Los Angeles
+060372377201_060372378002 : West 76th Street , Los Angeles
+060372377201_060372378003 : West 78th Street , Los Angeles
+060372377101_060372377201 : South Hoover Street , Los Angeles
+060372377201_060372382001 : West 79th Street , Los Angeles
+060372377201_060372383102 : South Hoover Street , Los Angeles
+060372377201_060372383101 : West 79th Street , Los Angeles
+060372039002_060372039003 : South Lorena Street , Los Angeles
+060372039001_060372039002 : South Indiana Street , Los Angeles
+060372039002_060372041103 : South Lorena Street , Los Angeles
+060372039002_060375311011 : East 3rd Street , Los Angeles
+060372039002_060375311014 : Los Angeles Police Officer Steven Gajda Memorial Highway , Los Angeles
+060372039002_060372041202 : South Lorena Street , Los Angeles
+060372039002_060375312012 : Los Angeles Police Officer Steven Gajda Memorial Highway , Los Angeles
+060372039003_060372049101 : East 6th Street , Los Angeles
+060372039003_060375311014 : Los Angeles Police Officer Steven Gajda Memorial Highway , Los Angeles
+060372039003_060372041202 : South Lorena Street , Los Angeles
+060372039003_060375312012 : East 6th Street , Los Angeles
+060372039003_060372048102 : South Lorena Street , Los Angeles
+060372039003_060372048101 : East 6th Street , Los Angeles
+060372039001_060372041101 : East Cesar E Chavez Avenue , Los Angeles
+060372039001_060372041103 : East 2nd Street , Los Angeles
+060372038004_060372039001 : East Cesar E Chavez Avenue , Los Angeles
+060372039001_060375309011 : East Cesar E Chavez Avenue , Los Angeles
+060372039001_060375311011 : South Indiana Street , Los Angeles
+060372039001_060375311013 : Michigan Avenue , Los Angeles
+060372039001_060375311012 : East 1st Street , Los Angeles
+060372774001_060372774002 : Aviation Boulevard , Los Angeles
+060372774001_060376014024 : West Arbor Vitae Street , Inglewood
+060372774001_060376014023 : West Century Boulevard , Lennox
+060372774001_060376014013 : West Arbor Vitae Street , Inglewood
+060372774001_060376015012 : West Century Boulevard , Lennox
+060372774001_060379800281 : Aviation Boulevard , Los Angeles
+060372772002_060372774002 : Bellanca Avenue , Los Angeles
+060372774002_060376014013 : West Arbor Vitae Street , Inglewood
+060372774002_060379800281 : West Century Boulevard , Los Angeles
+060374328021_060374328022 : Baldwin Avenue , El Monte
+060374328021_060374328023 : Valley Boulevard , El Monte
+060374328011_060374328021 : Valley Boulevard , El Monte
+060374328012_060374328021 : Christopher Columbus Transcontinental Highway , El Monte
+060374328021_060374331012 : Baldwin Avenue , El Monte
+060371132131_060371132132 : Vintage Street , Los Angeles
+060371132132_060371133032 : Lassen Street , Los Angeles
+060371132121_060371132132 : Devonshire Street , Los Angeles
+060371132122_060371132132 : Devonshire Street , Los Angeles
+060371132132_060371132371 : Lassen Street , Los Angeles
+060371132132_060371133212 : Lassen Street , Los Angeles
+060371132112_060371132131 : Valley Circle Boulevard , Los Angeles
+060371132121_060371132131 : Devonshire Street , Los Angeles
+060371132131_060371132371 : Lassen Street , Los Angeles
+060376704051_060376704072 : Peacock Ridge Road , Rancho Palos Verdes
+060376704051_060376704073 : Armaga Spring Road , Rancho Palos Verdes
+060376704051_060376704071 : Hawthorne Boulevard , Rolling Hills Estates
+060376704051_060376706023 : Crest Road , Rolling Hills Estates
+060376704051_060376705001 : Crest Road West , Rolling Hills
+060376704051_060376704061 : Highridge Road , Rolling Hills Estates
+060376704051_060376704111 : Hawthorne Boulevard , Rolling Hills Estates
+060374825223_060374826001 : Arroyo Drive , Monterey Park
+060374825223_060374826002 : Arroyo Drive , Monterey Park
+060374825223_060375300051 : Paramount Boulevard , Montebello
+060374825223_060375300031 : Paramount Boulevard , Montebello
+060374825221_060374825223 : Paramount Boulevard , Montebello
+060374825222_060374825223 : Paramount Boulevard , Montebello
+060375403002_060375403004 : Los Flores Boulevard , Lynwood
+060375403003_060375403004 : Oakwood Avenue , Lynwood
+060375402012_060375403004 : Century Boulevard , South Gate
+060375402024_060375403004 : Long Beach Boulevard , Lynwood
+060375402021_060375403004 : Norton Avenue , Lynwood
+060374328022_060374328023 : Valley Boulevard , El Monte
+060374328022_060374331012 : Christopher Columbus Transcontinental Highway , Rosemead
+060374328022_060374329021 : Valley Boulevard , Rosemead
+060375403001_060375403002 : Santa Fe Avenue , Lynwood
+060375403001_060375403003 : Alameda Street , Los Angeles
+060372430003_060375403001 : East 103rd Street , Los Angeles
+060372430004_060375403001 : Mona Boulevard , Los Angeles
+060375354003_060375403001 : Alameda Street , South Gate
+060375403001_060375404001 : Mona Boulevard , Los Angeles
+060372421001_060375403001 : East 103rd Street , Los Angeles
+060375403002_060375403003 : Santa Fe Avenue , Lynwood
+060375402032_060375403003 : Long Beach Boulevard , Lynwood
+060375402031_060375403003 : Glenn Anderson Freeway , Lynwood
+060375403003_060375417004 : Glenn Anderson Freeway , Lynwood
+060375402024_060375403003 : Imperial Highway , Lynwood
+060375403003_060375405011 : State Street , Lynwood
+060375403003_060375405012 : Glenn Anderson Freeway , Los Angeles
+060375403003_060375404001 : Alameda Street , Los Angeles
+060375403003_060375404002 : Alameda Street , Los Angeles
+060371813001_060371813003 : Castle Crest Drive , Los Angeles
+060371813001_060371813002 : Colorado Boulevard , Los Angeles
+060371810002_060371813001 : Colorado Boulevard , Los Angeles
+060371810003_060371813001 : Colorado Boulevard , Los Angeles
+060371813001_060371814003 : Yosemite Drive , Los Angeles
+060371813001_060371816002 : Las Colinas Avenue , Los Angeles
+060371813001_060371816001 : Addison Way , Los Angeles
+060371813002_060371813003 : Yosemite Way , Los Angeles
+060371813003_060373021021 : Round Top Drive , Los Angeles
+060371813003_060371862011 : North Avenue 45 , Los Angeles
+060371813003_060371834022 : North Avenue 45 , Los Angeles
+060371813003_060371861003 : Glendale Freeway , Los Angeles
+060371813003_060371861004 : Glendale Freeway , Los Angeles
+060371813003_060371816002 : Ridgeview Avenue , Los Angeles
+060371810002_060371813002 : Colorado Boulevard , Los Angeles
+060371810003_060371813002 : Colorado Boulevard , Los Angeles
+060371813002_060373021021 : Lincoln Avenue , Glendale
+060371813002_060373021042 : Colorado Boulevard , Glendale
+060371813002_060373021043 : West Broadway , Los Angeles
+060371813002_060373021041 : West Broadway , Glendale
+060372376002_060372376004 : West 70th Street , Los Angeles
+060372376003_060372376004 : South Figueroa Street , Los Angeles
+060372376001_060372376004 : South Figueroa Street , Los Angeles
+060372376004_060372377102 : West Florence Avenue , Los Angeles
+060372376001_060372376002 : West 66th Street , Los Angeles
+060372376002_060372377102 : West Florence Avenue , Los Angeles
+060372376002_060372377101 : West Florence Avenue , Los Angeles
+060372375002_060372376002 : South Hoover Street , Los Angeles
+060372375001_060372376002 : West 66th Street , Los Angeles
+060372376001_060372376003 : West Gage Avenue , Los Angeles
+060372371021_060372376003 : West Gage Avenue , Los Angeles
+060372371022_060372376003 : West Gage Avenue , Los Angeles
+060372376003_060372377102 : South Figueroa Street , Los Angeles
+060372376003_060372392013 : West Gage Avenue , Los Angeles
+060372376003_060372396012 : West Florence Avenue , Los Angeles
+060372376003_060372393101 : West Florence Avenue , Los Angeles
+060372371021_060372376001 : West Gage Avenue , Los Angeles
+060372371022_060372376001 : West Gage Avenue , Los Angeles
+060372371015_060372376001 : South Hoover Street , Los Angeles
+060372375001_060372376001 : South Hoover Street , Los Angeles
+060375331071_060375331072 : Passaic Street , Huntington Park
+060375331071_060375332031 : Florence Avenue , Huntington Park
+060375331071_060375332032 : State Street , Huntington Park
+060375331062_060375331071 : Saturn Avenue , Huntington Park
+060375331071_060375348021 : Mountain View Avenue , Walnut Park
+060375331071_060375345011 : Walnut Street , Huntington Park
+060375331071_060375347001 : Walnut Street , Walnut Park
+060375331071_060375332021 : Saturn Avenue , Huntington Park
+060375311022_060375315031 : Pomona Freeway , Los Angeles
+060375311021_060375311022 : South Sunol Drive , Los Angeles
+060375310002_060375311022 : South Sunol Drive , Los Angeles
+060375310003_060375311022 : Pomona Freeway , Los Angeles
+060375311012_060375311022 : East 1st Street , Los Angeles
+060375311014_060375311022 : South Gage Avenue , Los Angeles
+060375311022_060375312011 : Pomona Freeway , Los Angeles
+060375331042_060375331072 : Saturn Avenue , Huntington Park
+060375331062_060375331072 : Passaic Street , Huntington Park
+060375331061_060375331072 : Saturn Avenue , Huntington Park
+060375331072_060375348021 : Florence Avenue , Huntington Park
+060372199021_060372199023 : West Adams Boulevard , Los Angeles
+060372199021_060372199022 : Spokane Street , Los Angeles
+060372199011_060372199021 : Hauser Boulevard , Los Angeles
+060372199013_060372199021 : Hauser Boulevard , Los Angeles
+060372199021_060372201001 : West Jefferson Boulevard , Los Angeles
+060372199022_060372199023 : South Fairfax Avenue , Los Angeles
+060372199023_060372703003 : Christopher Columbus Transcontinental Highway , Los Angeles
+060372199023_060372702001 : Christopher Columbus Transcontinental Highway , Los Angeles
+060372199013_060372199023 : West Adams Boulevard , Los Angeles
+060372184004_060372199023 : Hauser Boulevard , Los Angeles
+060372184003_060372199023 : Hauser Boulevard , Los Angeles
+060372199023_060377024005 : South Fairfax Avenue , Culver City
+060372199022_060372201003 : National Boulevard , Culver City
+060372199022_060372201001 : South La Cienega Boulevard , Los Angeles
+060372199022_060377024005 : South Fairfax Avenue , Los Angeles
+060372199022_060377024004 : National Boulevard , Culver City
+060371918201_060371923003 : Melrose Avenue , Los Angeles
+060371918201_060371923002 : Seward Street , Los Angeles
+060371918201_060371919022 : Willoughby Avenue , Los Angeles
+060371918102_060371918201 : Cole Avenue , Los Angeles
+060371918103_060371918201 : Cole Avenue , Los Angeles
+060371918201_060371919012 : Willoughby Avenue , Los Angeles
+060375339012_060375339013 : Loveland Street , Bell Gardens
+060375339011_060375339012 : Darwell Avenue , Los Angeles
+060375339012_060375341021 : Agra Street , Bell Gardens
+060375339012_060375341022 : El Selinda Avenue , Bell Gardens
+060375323042_060375339012 : Darwell Avenue , Los Angeles
+060372284201_060372284202 : East Martin Luther King Junior Boulevard , Los Angeles
+060372283101_060372284202 : East Martin Luther King Junior Boulevard , Los Angeles
+060372283104_060372284202 : South San Pedro Street , Los Angeles
+060372283201_060372284202 : East 42nd Place , Los Angeles
+060372284202_060372311003 : East Martin Luther King Junior Boulevard , Los Angeles
+060372284202_060372285003 : San Pedro Place , Los Angeles
+060372284101_060372284202 : East Martin Luther King Junior Boulevard , Los Angeles
+060372284103_060372284202 : East Martin Luther King Junior Boulevard , Los Angeles
+060375503007_060375518001 : Imperial Highway , Norwalk
+060375518001_060375532003 : Foster Road , Downey
+060375518001_060375532002 : Foster Road , Downey
+060375518001_060375532001 : Regentview Avenue , Bellflower
+060375518001_060375519006 : San Gabriel River Mid Trail , Bellflower
+060375518001_060375519001 : Glenn Anderson Freeway , Downey
+060375511021_060375518001 : Imperial Highway , Norwalk
+060372284201_060372318002 : South Main Street , Los Angeles
+060372284201_060372318003 : South Main Street , Los Angeles
+060372284201_060372311003 : East Martin Luther King Junior Boulevard , Los Angeles
+060372284201_060372311002 : South Main Street , Los Angeles
+060372284201_060372319002 : East Vernon Avenue , Los Angeles
+060372284201_060372285003 : East Vernon Avenue , Los Angeles
+060372284101_060372284201 : East Martin Luther King Junior Boulevard , Los Angeles
+060374827011_060374827021 : Garfield Avenue South , Monterey Park
+060374827011_060374827022 : West Floral Drive , Monterey Park
+060374827011_060375302031 : North Garfield Avenue , Monterey Park
+060374827011_060375302022 : West Pomona Boulevard , Monterey Park
+060374827011_060374827012 : West Riggin Street , Monterey Park
+060374827011_060374827014 : West Hammel Street , Monterey Park
+060373012031_060373012032 : Valley View Road , Glendale
+060373011005_060373012031 : West Stocker Street , Glendale
+060373012031_060373012042 : West Stocker Street , Glendale
+060373012031_060373012043 : West Stocker Street , Glendale
+060373011004_060373012031 : West Stocker Street , Glendale
+060373007022_060373012031 : West Mountain Street , Glendale
+060373012032_060373013001 : West Kenneth Road , Glendale
+060373012032_060373012042 : West Stocker Street , Glendale
+060373012032_060373012043 : North Pacific Avenue , Glendale
+060373012032_060373012061 : North Pacific Avenue , Glendale
+060373007022_060373012032 : Valley View Road , Glendale
+060373012032_060373012053 : North Pacific Avenue , Glendale
+060374037213_060374037214 : Barranca Avenue , Covina
+060374037213_060374037221 : Barranca Avenue , Covina
+060374037213_060374059002 : East Covina Boulevard , Covina
+060374037213_060374059001 : East Covina Boulevard , Covina
+060374037213_060374061012 : North Citrus Avenue , Covina
+060374037213_060374061013 : East Cypress Street , Covina
+060374037213_060374060001 : North Citrus Avenue , Covina
+060374037212_060374037213 : Barranca Avenue , Covina
+060374827013_060375304002 : Pomona Freeway , Monterey Park
+060374827012_060374827013 : West Pomona Boulevard , Monterey Park
+060374827013_060374827014 : Bradshawe Avenue , Monterey Park
+060374827013_060375302021 : South Gerhart Avenue , Los Angeles
+060374827013_060375303021 : West Pomona Boulevard , Monterey Park
+060374305025_060374306003 : South Sunnyside Avenue , Sierra Madre
+060374305024_060374305025 : Sierra Madre Boulevard , Sierra Madre
+060374305025_060374305026 : Sierra Madre Boulevard , Sierra Madre
+060374305022_060374305025 : West Orange Grove Avenue , Sierra Madre
+060374037211_060374037214 : East Cypress Street , Covina
+060374037211_060374038011 : North Glendora Avenue , Covina
+060374037211_060374038013 : North Glendora Avenue , Covina
+060374037211_060374037222 : North Grand Avenue , Covina
+060374037211_060374037221 : North Grand Avenue , Covina
+060374037021_060374037211 : North Glendora Avenue , Covina
+060374037211_060374037212 : North Grand Avenue , Covina
+060374037214_060374037222 : North Grand Avenue , Covina
+060374037214_060374037221 : Barranca Avenue , Covina
+060374037214_060374061012 : Barranca Avenue , Covina
+060374037212_060374037214 : East Cypress Street , Covina
+060371286022_060371286023 : Burbank Boulevard , Los Angeles
+060371245002_060371286023 : Burbank Boulevard , Los Angeles
+060371245001_060371286023 : Woodman Avenue , Los Angeles
+060371286023_060371287021 : Ranchito Avenue , Los Angeles
+060371286023_060371287022 : Hazeltine Avenue , Los Angeles
+060371286023_060371287024 : Hazeltine Avenue , Los Angeles
+060371246001_060371286023 : Woodman Avenue , Los Angeles
+060371246002_060371286023 : Woodman Avenue , Los Angeles
+060371285001_060371286023 : Hazeltine Avenue , Los Angeles
+060371285002_060371286023 : Hazeltine Avenue , Los Angeles
+060371286021_060371286022 : Woodman Avenue , Los Angeles
+060371245002_060371286022 : Burbank Boulevard , Los Angeles
+060371245001_060371286022 : Burbank Boulevard , Los Angeles
+060371285002_060371286022 : Hazeltine Avenue , Los Angeles
+060371245002_060371286021 : Woodman Avenue , Los Angeles
+060371286012_060371286021 : Hazeltine Avenue , Los Angeles
+060371286011_060371286021 : Califa Street , Los Angeles
+060371285002_060371286021 : Hazeltine Avenue , Los Angeles
+060377014023_060377014024 : Wilshire Boulevard , Santa Monica
+060377014021_060377014023 : 2nd Street , Santa Monica
+060377014022_060377014023 : Washington Avenue , Santa Monica
+060377013022_060377014023 : Washington Avenue , Santa Monica
+060377014023_060377019022 : 2nd Street , Santa Monica
+060377014023_060377019021 : 4th Street , Santa Monica
+060377014024_060377015023 : Wilshire Boulevard , Santa Monica
+060377014022_060377014024 : Washington Avenue , Santa Monica
+060377013022_060377014024 : Washington Avenue , Santa Monica
+060377014024_060377019021 : Wilshire Boulevard , Santa Monica
+060377014024_060377015013 : Wilshire Boulevard , Santa Monica
+060372396021_060372396022 : East 79th Street , Los Angeles
+060372396022_060372397011 : West 79th Street , Los Angeles
+060372396022_060372397012 : West 79th Street , Los Angeles
+060372377102_060372396022 : West 76th Street , Los Angeles
+060372396012_060372396022 : South Main Street , Los Angeles
+060372383102_060372396022 : West 79th Street , Los Angeles
+060372396021_060372397011 : East 79th Street , Los Angeles
+060372395022_060372396021 : South San Pedro Street , Los Angeles
+060372396012_060372396021 : South Main Street , Los Angeles
+060372396011_060372396021 : East 76th Street , Los Angeles
+060372395012_060372396021 : East 76th Street , Los Angeles
+060371271021_060371271022 : Valerio Street , Los Angeles
+060371271021_060371272101 : Keswick Street , Los Angeles
+060371271021_060371272201 : Van Nuys Boulevard , Los Angeles
+060371271021_060371272202 : Valerio Street , Los Angeles
+060371203003_060371271021 : Hazeltine Avenue , Los Angeles
+060371200201_060371271021 : Van Nuys Boulevard , Los Angeles
+060371271021_060371271042 : Hazeltine Avenue , Los Angeles
+060371271021_060371271041 : Hazeltine Avenue , Los Angeles
+060371271022_060371279202 : Hazeltine Avenue , Los Angeles
+060371271022_060371272201 : Valerio Street , Los Angeles
+060371271022_060371272202 : Valerio Street , Los Angeles
+060371271022_060371279102 : Sherman Way , Los Angeles
+060371271022_060371271042 : Hazeltine Avenue , Los Angeles
+060371271022_060371271041 : Hazeltine Avenue , Los Angeles
+060373006001_060373006002 : Angelus Avenue , Glendale
+060373006001_060373006004 : Roselawn Avenue , Glendale
+060373006001_060373008002 : North Verdugo Road , Glendale
+060373005023_060373006001 : Montrose Avenue , La Crescenta-Montrose
+060373005021_060373006001 : Montrose Avenue , La Crescenta-Montrose
+060371851002_060371994001 : Marmion Way , Los Angeles
+060371838101_060371851002 : North Figueroa Street , Los Angeles
+060371835202_060371851002 : Monte Vista Street , Los Angeles
+060371851001_060371851002 : North Avenue 50 , Los Angeles
+060371838201_060371851002 : Arroyo Seco Parkway , Los Angeles
+060371851002_060371993001 : Arroyo Seco Parkway , Los Angeles
+060371851002_060371851003 : Museum Drive , Los Angeles
+060373006003_060373006005 : Ramsdell Avenue , Glendale
+060373006003_060373006004 : Ramsdell Avenue , Glendale
+060373005011_060373006003 : Rosemont Avenue , Glendale
+060373005012_060373006003 : La Crescenta Avenue , La Crescenta-Montrose
+060373005023_060373006003 : Rosemont Avenue , Glendale
+060373005021_060373006003 : Rosemont Avenue , Glendale
+060373006002_060373006004 : Angelus Avenue , Glendale
+060373006002_060373008003 : La Crescenta Avenue , Glendale
+060373006002_060373008002 : North Verdugo Road , Glendale
+060373006004_060373006005 : El Lado Drive , Glendale
+060373005012_060373006005 : Montrose Avenue , La Crescenta-Montrose
+060373005013_060373006005 : Ramsdell Avenue , La Crescenta-Montrose
+060373004002_060373006005 : Pennsylvania Avenue , Glendale
+060373006004_060373008003 : North Verdugo Road , Glendale
+060373006004_060373008004 : Canada Boulevard , Glendale
+060373005021_060373006004 : Rosemont Avenue , Glendale
+060374331021_060374336021 : Garvey Avenue , South El Monte
+060374335011_060374336021 : Rio Hondo Bike Path , South El Monte
+060374336012_060374336021 : Garvey Avenue , Rosemead
+060374336011_060374336021 : Garvey Avenue , Rosemead
+060374336021_060374824021 : Garvey Avenue , Rosemead
+060374336021_060374824022 : Walnut Grove Avenue , Rosemead
+060374331012_060374336021 : Rio Hondo Bike Path , South El Monte
+060374336021_060374824013 : Garvey Avenue , Rosemead
+060376504011_060379800051 : West 190th Street , Torrance
+060376503005_060379800051 : West 190th Street , Torrance
+060376502001_060379800051 : West 190th Street , Torrance
+060376502004_060379800051 : West 190th Street , Los Angeles
+060376509011_060379800051 : Crenshaw Boulevard , Torrance
+060372920002_060379800051 : Western Avenue , Torrance
+060375343011_060375343012 : Elizabeth Street , Cudahy
+060375343012_060375344052 : Elizabeth Street , Cudahy
+060375343012_060375343021 : Cecelia Street , South Gate
+060375343012_060375361041 : Atlantic Avenue , Cudahy
+060375343012_060375344042 : Elizabeth Street , Cudahy
+060375343012_060375344062 : Elizabeth Street , Cudahy
+060375343012_060375343022 : Santa Ana Street , Cudahy
+060375343011_060375345021 : Otis Avenue , Huntington Park
+060375343011_060375345022 : Otis Avenue , Huntington Park
+060375343011_060375344042 : Elizabeth Street , Cudahy
+060375343011_060375344031 : Otis Avenue , Cudahy
+060375004022_060375004023 : Rosemead Boulevard , Pico Rivera
+060375004021_060375004023 : Durfee Avenue , Pico Rivera
+060375004023_060375004041 : Beverly Boulevard , Pico Rivera
+060375004023_060375004043 : Beverly Boulevard , Pico Rivera
+060375004023_060375004042 : Beverly Boulevard , Pico Rivera
+060375004023_060375006004 : Rosemead Boulevard , Pico Rivera
+060375004023_060375006003 : Rosemead Boulevard , Pico Rivera
+060375004023_060375005001 : Rosemead Boulevard , Pico Rivera
+060375004021_060375004022 : Whittier Boulevard , Pico Rivera
+060375004022_060375006004 : Speedway Alley , Pico Rivera
+060375004022_060375007001 : El Camino Real , Pico Rivera
+060375004022_060375009004 : El Camino Real , Pico Rivera
+060375004021_060375004041 : Beverly Boulevard , Pico Rivera
+060375004021_060375004042 : Beverly Boulevard , Pico Rivera
+060375004021_060375010011 : Whittier Boulevard , Whittier
+060375004021_060375004031 : Whittier Boulevard , Whittier
+060375302031_060375302032 : North Hay Street , Montebello
+060375300052_060375302032 : West Lincoln Avenue , Montebello
+060375301024_060375302032 : West Beverly Boulevard , Montebello
+060375302032_060375302041 : West Via Acosta , Montebello
+060375300062_060375302032 : West Beverly Boulevard , Montebello
+060378003321_060378003324 : Fountainwood Street , Agoura Hills
+060378003321_061110074053 : Pinewood Avenue , Oak Park
+060378003321_061110074052 : Pinewood Avenue , Oak Park
+060378003273_060378003321 : Eagleton Street , Agoura Hills
+060378003273_060378003324 : East Thousand Oaks Boulevard , Agoura Hills
+060378003271_060378003324 : East Thousand Oaks Boulevard , Agoura Hills
+060378003241_060378003324 : East Thousand Oaks Boulevard , Agoura Hills
+060371244001_060371244002 : Bellaire Avenue , Los Angeles
+060371244002_060371244003 : Bellaire Avenue , Los Angeles
+060371238002_060371244002 : Whitsett Avenue , Los Angeles
+060371238003_060371244002 : Whitsett Avenue , Los Angeles
+060371237003_060371244002 : Whitsett Avenue , Los Angeles
+060371244001_060371244003 : Burbank Boulevard , Los Angeles
+060371236013_060371244001 : Burbank Boulevard , Los Angeles
+060371236012_060371244001 : Coldwater Canyon Avenue , Los Angeles
+060371237003_060371244001 : Oxnard Street , Los Angeles
+060371237004_060371244001 : Goodland Avenue , Los Angeles
+060371836101_060371836102 : Aldama Street , Los Angeles
+060371835201_060371836101 : Aldama Street , Los Angeles
+060371833003_060371836101 : York Boulevard , Los Angeles
+060371835101_060371836101 : North Avenue 56 , Los Angeles
+060371836101_060371836201 : North Avenue 57 , Los Angeles
+060371832203_060371836101 : North Avenue 57 , Los Angeles
+060371836102_060371838102 : North Avenue 56 , Los Angeles
+060371835201_060371836102 : Aldama Street , Los Angeles
+060371836102_060371836202 : North Figueroa Street , Los Angeles
+060371835101_060371836102 : Aldama Street , Los Angeles
+060371836102_060371836201 : Monte Vista Street , Los Angeles
+060371836102_060371837013 : North Figueroa Street , Los Angeles
+060376014021_060376014024 : West Arbor Vitae Street , Inglewood
+060376014023_060376014024 : West Arbor Vitae Street , Inglewood
+060376014012_060376014024 : West Hillcrest Boulevard , Inglewood
+060376014013_060376014024 : South La Cienega Boulevard , Inglewood
+060376014021_060376014023 : West Arbor Vitae Street , Inglewood
+060376014021_060376014022 : West 95th Street , Inglewood
+060376014012_060376014021 : West Hillcrest Boulevard , Inglewood
+060376012023_060376014021 : Inglewood Avenue , Inglewood
+060376012122_060376014021 : West Arbor Vitae Street , Inglewood
+060376012121_060376014021 : West Hillcrest Boulevard , Inglewood
+060376014022_060376014023 : West Century Boulevard , Inglewood
+060376014013_060376014023 : West Arbor Vitae Street , Inglewood
+060376014023_060376015012 : West Century Boulevard , Lennox
+060376014023_060379800281 : West Century Boulevard , Lennox
+060376012023_060376014022 : West Century Boulevard , Inglewood
+060376014022_060376015012 : West Century Boulevard , Inglewood
+060376014022_060376015011 : West Century Boulevard , Inglewood
+060371321022_060371321023 : Hayvenhurst Avenue , Los Angeles
+060371321023_060379800081 : Hayvenhurst Avenue , Los Angeles
+060371319001_060371321023 : Balboa Boulevard , Los Angeles
+060371320021_060371321023 : Balboa Boulevard , Los Angeles
+060371320022_060371321023 : Balboa Boulevard , Los Angeles
+060371321012_060371321023 : Hayvenhurst Avenue , Los Angeles
+060371321011_060371321023 : Balboa Boulevard , Los Angeles
+060371321021_060371321022 : Saticoy Street , Los Angeles
+060371321022_060379800081 : Hayvenhurst Avenue , Los Angeles
+060371319001_060371321022 : Balboa Boulevard , Los Angeles
+060371320021_060371321022 : Balboa Boulevard , Los Angeles
+060371311003_060371321022 : Balboa Boulevard , Los Angeles
+060371974201_060371975001 : Reservoir Street , Los Angeles
+060371974201_060371974202 : Reservoir Street , Los Angeles
+060371955002_060371974201 : Clifford Street , Los Angeles
+060371955003_060371974201 : Berkeley Avenue , Los Angeles
+060371974103_060371974201 : Avalon Street , Los Angeles
+060371956001_060371974201 : Glendale Boulevard , Los Angeles
+060371956002_060371974201 : Reservoir Street , Los Angeles
+060371957201_060371974201 : Reservoir Street , Los Angeles
+060371974102_060371974201 : Avalon Street , Los Angeles
+060376201021_060376201023 : West Mariposa Avenue , El Segundo
+060376201021_060376201022 : Concord Street , El Segundo
+060376200023_060376201021 : East Grand Avenue , El Segundo
+060376201022_060376201023 : Chevron Driveway , El Segundo
+060376201013_060376201023 : West Mariposa Avenue , El Segundo
+060376201023_060379800301 : Loma Vista Street , El Segundo
+060376201023_060379800281 : West Mariposa Avenue , El Segundo
+060376200023_060376201022 : Sheldon Street , El Segundo
+060376200021_060376201022 : East El Segundo Boulevard , El Segundo
+060376201022_060379800301 : Chevron Driveway , El Segundo
+060372127021_060372127022 : Country Club Drive , Los Angeles
+060372127021_060372127023 : Wilshire Boulevard , Los Angeles
+060372117012_060372127021 : Wilshire Boulevard , Los Angeles
+060372110002_060372127021 : South Plymouth Boulevard , Los Angeles
+060372127021_060372128002 : West Olympic Boulevard , Los Angeles
+060372127021_060372128001 : West Olympic Boulevard , Los Angeles
+060372117012_060372127022 : Wilshire Boulevard , Los Angeles
+060372117013_060372127022 : Wilshire Boulevard , Los Angeles
+060372127022_060372129002 : Country Club Drive , Los Angeles
+060372127022_060372128001 : Country Club Drive , Los Angeles
+060372127011_060372127022 : Country Club Drive , Los Angeles
+060372126101_060372127022 : West 8th Street , Los Angeles
+060372110002_060372127023 : Wilshire Boulevard , Los Angeles
+060372110004_060372127023 : South Rimpau Boulevard , Los Angeles
+060372127023_060372128003 : West Olympic Boulevard , Los Angeles
+060372127023_060372128002 : West Olympic Boulevard , Los Angeles
+060372127023_060372161001 : South Rimpau Boulevard , Los Angeles
+060372127023_060372161002 : West Olympic Boulevard , Los Angeles
+060374604011_060374604012 : Angeles Crest Highway , La Cañada Flintridge
+060374604011_060379301011 : Gabrieleno Trail , Pasadena
+060374604011_060374605013 : Greenridge Drive , La Cañada Flintridge
+060374604011_060374605011 : Mount Lukens Truck Trail , La Cañada Flintridge
+060374603014_060374604011 : West Altadena Drive , Altadena
+060374604011_060374607002 : Highland Drive , La Cañada Flintridge
+060374604011_060374607001 : Foothill Boulevard , La Cañada Flintridge
+060374604011_060374610004 : Oak Grove Drive , Altadena
+060374604011_060374609004 : Oak Grove Drive , La Cañada Flintridge
+060374603021_060374604011 : North Windsor Avenue , Altadena
+060374603022_060374604011 : West Mariposa Street , Altadena
+060374604011_060374608002 : Oak Grove Drive , La Cañada Flintridge
+060374604012_060379301011 : Mount Lukens Truck Trail , La Cañada Flintridge
+060375317022_060375317023 : South Woods Avenue , East Los Angeles
+060375317021_060375317022 : East Olympic Boulevard , Commerce
+060375317022_060375317024 : East Olympic Boulevard , East Los Angeles
+060375317022_060375323033 : South Atlantic Boulevard , East Los Angeles
+060375317022_060375323021 : South Woods Avenue , Los Angeles
+060375317023_060375317024 : Union Pacific Avenue , East Los Angeles
+060375316021_060375317023 : South Vancouver Avenue , East Los Angeles
+060375316023_060375317023 : East Olympic Boulevard , East Los Angeles
+060375316022_060375317023 : South Ferris Avenue , East Los Angeles
+060375317023_060375323021 : Telegraph Road , East Los Angeles
+060375317021_060375317024 : Whittier Boulevard , East Los Angeles
+060375317021_060375323033 : East Olympic Boulevard , Commerce
+060375317012_060375317021 : El Camino Real , East Los Angeles
+060375338061_060375338062 : Gage Avenue , Bell Gardens
+060375338061_060375344051 : Wilcox Avenue , Bell Gardens
+060375338061_060375341011 : Gage Avenue , Bell Gardens
+060375338061_060375341012 : Selfland Avenue , Bell Gardens
+060375338061_060375341013 : Clara Street , Cudahy
+060375338042_060375338061 : Florence Avenue , Bell
+060375338061_060375343021 : Elizabeth Street , Cudahy
+060375338061_060375342011 : Long Beach Freeway , Cudahy
+060375338061_060375361041 : Reisner Way , South Gate
+060375338051_060375338061 : Gage Avenue , Bell
+060375338061_060375361023 : Reisner Way , South Gate
+060375338061_060375344062 : Clara Street , Cudahy
+060375338061_060375344061 : Wilcox Avenue , Cudahy
+060375338061_060375342012 : Long Beach Freeway , Cudahy
+060375338034_060375338061 : Florence Avenue , Bell
+060375316021_060375317024 : Whittier Boulevard , East Los Angeles
+060375316042_060375317024 : Whittier Boulevard , East Los Angeles
+060375317012_060375317024 : Whittier Boulevard , East Los Angeles
+060375338062_060375341011 : Gage Avenue , Bell Gardens
+060375338062_060375341012 : Gage Avenue , Bell Gardens
+060375338041_060375338062 : Randolph Street , Bell
+060375338051_060375338062 : Gage Avenue , Bell
+060375338052_060375338062 : Randolph Street , Bell
+060375338053_060375338062 : Filmore Street , Bell
+060375337032_060375338062 : Randolph Street , Commerce
+060375323042_060375338062 : Long Beach Freeway , Bell
+060375357022_060375357024 : Southern Avenue , South Gate
+060375357023_060375357024 : Firestone Boulevard , South Gate
+060375355031_060375357024 : State Street , South Gate
+060375357024_060375358031 : Southern Avenue , South Gate
+060375356051_060375357024 : Southern Avenue , South Gate
+060375357024_060375358042 : California Avenue , South Gate
+060375357022_060375357023 : Ardmore Avenue , South Gate
+060375357021_060375357022 : San Juan Avenue , South Gate
+060375357022_060375358041 : Southern Avenue , South Gate
+060375357022_060375358042 : Southern Avenue , South Gate
+060375357021_060375357023 : Ardmore Avenue , South Gate
+060375355031_060375357023 : State Street , South Gate
+060375357013_060375357023 : Independence Avenue , South Gate
+060375357012_060375357023 : Independence Avenue , South Gate
+060375357011_060375357023 : Independence Avenue , South Gate
+060375355021_060375357023 : Independence Avenue , South Gate
+060375357011_060375357021 : Independence Avenue , South Gate
+060375357021_060375358041 : San Juan Avenue , South Gate
+060375357021_060375359014 : Southern Avenue , South Gate
+060375502022_060375502023 : Orr and Day Road , Norwalk
+060375502021_060375502022 : Orr and Day Road , Norwalk
+060375502022_060375502024 : Maidstone Avenue , Norwalk
+060375502022_060375502025 : Crewe Street , Norwalk
+060375502022_060375522002 : Imperial Highway , Norwalk
+060375502022_060375503001 : Santa Ana Freeway , Norwalk
+060375502022_060375520021 : Imperial Highway , Norwalk
+060375502012_060375502022 : Pioneer Boulevard , Norwalk
+060375502021_060375502023 : Graystone Avenue , Norwalk
+060375502023_060375502024 : Hercules Street , Norwalk
+060376025041_060376025061 : Yukon Avenue , Hawthorne
+060376025041_060376025051 : West 135th Street , Hawthorne
+060376025041_060376025052 : West 139th Street , Hawthorne
+060376025041_060376025092 : Yukon Avenue , Hawthorne
+060376025041_060376025042 : West 139th Street , Hawthorne
+060376025041_060376025071 : Yukon Avenue , Hawthorne
+060376025041_060376025083 : Yukon Avenue , Hawthorne
+060376025041_060376025082 : West 135th Street , Hawthorne
+060375502021_060375502024 : Orr and Day Road , Norwalk
+060375502021_060375502025 : Orr and Day Road , Norwalk
+060375502021_060375503002 : Firestone Boulevard , Norwalk
+060375502021_060375503001 : Orr and Day Road , Norwalk
+060375502021_060375519003 : Imperial Highway , Norwalk
+060375502021_060375520021 : Orr and Day Road , Norwalk
+060375502021_060375503005 : Studebaker Road , Norwalk
+060375502021_060375520011 : Imperial Highway , Norwalk
+060375502024_060375502025 : Orr and Day Road , Norwalk
+060375502025_060375520021 : Orr and Day Road , Norwalk
+060375502025_060375520011 : Orr and Day Road , Norwalk
+060371975002_060371975003 : West Kensington Road , Los Angeles
+060371975001_060371975002 : Douglas Street , Los Angeles
+060371975002_060371976002 : East Edgeware Road , Los Angeles
+060371975001_060371975003 : West Kensington Road , Los Angeles
+060371975003_060372084021 : Hollywood Freeway , Los Angeles
+060371975003_060372080001 : Hollywood Freeway , Los Angeles
+060371975003_060371976002 : Bellevue Avenue , Los Angeles
+060371975003_060371976001 : Hollywood Freeway , Los Angeles
+060371957201_060371975003 : Glendale Boulevard , Los Angeles
+060371957202_060371975003 : Glendale Boulevard , Los Angeles
+060371974202_060371975001 : Sunset Boulevard , Los Angeles
+060371973002_060371975001 : Douglas Street , Los Angeles
+060371973003_060371975001 : Sunset Boulevard , Los Angeles
+060371975001_060371977001 : Douglas Street , Los Angeles
+060371975001_060371976002 : Douglas Street , Los Angeles
+060371956001_060371975001 : Reservoir Street , Los Angeles
+060371956002_060371975001 : Reservoir Street , Los Angeles
+060371957201_060371975001 : Reservoir Street , Los Angeles
+060371891011_060371891012 : Franklin Avenue , Los Angeles
+060371891011_060371891013 : Finley Avenue , Los Angeles
+060371891011_060371952023 : Prospect Avenue , Los Angeles
+060371891011_060371953003 : Prospect Avenue , Los Angeles
+060371891011_060371891022 : North Commonwealth Avenue , Los Angeles
+060371891011_060371952012 : North Commonwealth Avenue , Los Angeles
+060371891012_060371891013 : Franklin Avenue , Los Angeles
+060371891012_060371892023 : North Vermont Avenue , Los Angeles
+060371891012_060371953003 : North Vermont Avenue , Los Angeles
+060371891012_060371892012 : North Vermont Avenue , Los Angeles
+060371891013_060371892022 : North Vermont Avenue , Los Angeles
+060371891013_060371892023 : North Vermont Avenue , Los Angeles
+060371891013_060371891023 : Finley Avenue , Los Angeles
+060371891013_060371891022 : Finley Avenue , Los Angeles
+060371891013_060371892012 : North Vermont Avenue , Los Angeles
+060374070021_060374070022 : Vineland Avenue , City of Industry
+060374070021_060374083011 : Vineland Avenue , City of Industry
+060374070021_060374082021 : South 3rd Avenue , City of Industry
+060374070021_060374071011 : East Temple Avenue , La Puente
+060374070021_060374071021 : North Puente Avenue , City of Industry
+060375402011_060375402012 : State Street , South Gate
+060375358033_060375402011 : Tweedy Boulevard , South Gate
+060375358024_060375402011 : Cherokee Avenue , South Gate
+060375358021_060375402011 : Sequoia Drive , South Gate
+060375356052_060375402011 : Tweedy Boulevard , Lynwood
+060375402012_060375402021 : Century Boulevard , South Gate
+060375358024_060375402012 : Elizabeth Avenue , South Gate
+060374070022_060374083011 : East Temple Avenue , Avocado Heights
+060374069013_060374070022 : Amar Road , La Puente
+060374070011_060374070022 : Amar Road , La Puente
+060374070013_060374070022 : Amar Road , West Puente Valley
+060374070022_060374083012 : Valley Boulevard , El Monte
+060374070022_060374071011 : East Temple Avenue , La Puente
+060374070022_060374340012 : Valley Boulevard , El Monte
+060374070022_060374333021 : San Gabriel River Trail , El Monte
+060374047031_060374070022 : North Baldwin Park Boulevard , Baldwin Park
+060374047032_060374070022 : North Baldwin Park Boulevard , Baldwin Park
+060374070022_060374071021 : East Temple Avenue , La Puente
+060371892021_060379800091 : Glendower Avenue , Los Angeles
+060373118012_060379800091 : West Riverside Drive , Burbank
+060371893001_060379800091 : Canyon Drive , Los Angeles
+060371893002_060379800091 : Fern Dell Drive , Los Angeles
+060371897012_060379800091 : Innsdale Drive , Los Angeles
+060371882011_060379800091 : Los Feliz Boulevard , Los Angeles
+060371882012_060379800091 : Riverside Drive , Los Angeles
+060371881001_060379800091 : Los Feliz Boulevard , Los Angeles
+060373016012_060379800091 : Ventura Freeway , Glendale
+060371871012_060379800091 : Golden State Freeway , Los Angeles
+060371891021_060379800091 : North Vermont Avenue , Los Angeles
+060371897013_060379800091 : Tree of Life Trail , Los Angeles
+060373117004_060379800091 : West Riverside Drive , Burbank
+060373117006_060379800091 : South Parish Place , Burbank
+060371894001_060379800091 : Mulholland Highway , Los Angeles
+060373116005_060379800091 : South Buena Vista Street , Burbank
+060371883003_060379800091 : Hyperion Avenue , Los Angeles
+060371882021_060379800091 : Crystal Springs Drive , Los Angeles
+060371882022_060379800091 : North Commonwealth Avenue , Los Angeles
+060373016022_060379800091 : Golden State Freeway , Glendale
+060373016023_060379800091 : Garden Street , Glendale
+060373016021_060379800091 : Rancho Avenue , Glendale
+060372674021_060372674022 : Wilshire Boulevard , Los Angeles
+060372674021_060372674041 : Santa Monica Boulevard , Los Angeles
+060372674021_060372675021 : South Bundy Drive , Los Angeles
+060372643022_060372674021 : Wilshire Boulevard , Los Angeles
+060372674022_060377017011 : Centinela Avenue , Santa Monica
+060372674022_060372675021 : Centinela Avenue , Santa Monica
+060372674022_060377016021 : Wilshire Boulevard , Santa Monica
+060372643022_060372674022 : Wilshire Boulevard , Los Angeles
+060371351141_060371351142 : Glade Avenue , Los Angeles
+060371349031_060371351142 : Victory Boulevard , Los Angeles
+060371351113_060371351142 : Vanowen Street , Los Angeles
+060371351131_060371351142 : Erwin Street , Los Angeles
+060371345201_060371351142 : Vanowen Street , Los Angeles
+060371345202_060371351142 : Orange Line Pedestrian and Bike Path , Los Angeles
+060371351112_060371351141 : Victory Boulevard , Los Angeles
+060371351113_060371351141 : Victory Boulevard , Los Angeles
+060371351131_060371351141 : Erwin Street , Los Angeles
+060371351022_060371351141 : Victory Boulevard , Los Angeles
+060371397031_060371398011 : Reseda Boulevard , Los Angeles
+060371394023_060371398011 : Tarzana Drive , Los Angeles
+060371394022_060371398011 : Topeka Drive , Los Angeles
+060371398011_060371398021 : Vanalden Avenue , Los Angeles
+060371272102_060371272103 : Saticoy Street , Los Angeles
+060371272101_060371272103 : Saticoy Street , Los Angeles
+060371272103_060371277121 : Sepulveda Boulevard , Los Angeles
+060371272103_060371272201 : Cohasset Street , Los Angeles
+060371272103_060371272202 : Kester Avenue , Los Angeles
+060371272103_060371278041 : Sepulveda Boulevard , Los Angeles
+060371272103_060371273001 : Sepulveda Boulevard , Los Angeles
+060371272103_060371273002 : Sepulveda Boulevard , Los Angeles
+060371272101_060371272102 : Saticoy Street , Los Angeles
+060371200102_060371272102 : Raymer Street , Los Angeles
+060371272102_060371275202 : Sepulveda Boulevard , Los Angeles
+060371272102_060371272201 : Saticoy Street , Los Angeles
+060371272102_060371273001 : Sepulveda Boulevard , Los Angeles
+060371200102_060371272101 : Raymer Street , Los Angeles
+060371272101_060371272201 : Saticoy Street , Los Angeles
+060371203003_060371272101 : Van Nuys Boulevard , Los Angeles
+060371200201_060371272101 : Van Nuys Boulevard , Los Angeles
+060371348001_060371348002 : Oakdale Avenue , Los Angeles
+060371348001_060371348004 : Archwood Street , Los Angeles
+060371348001_060371349011 : Corbin Avenue , Los Angeles
+060371348001_060371349013 : Winnetka Avenue , Los Angeles
+060371317011_060371348001 : Corbin Avenue , Los Angeles
+060371348001_060371349042 : Winnetka Avenue , Los Angeles
+060371347202_060371348001 : Oakdale Avenue , Los Angeles
+060371347201_060371348001 : Corbin Avenue , Los Angeles
+060371330003_060371348001 : Corbin Avenue , Los Angeles
+060371330002_060371348001 : Vanowen Street , Los Angeles
+060371348002_060371348003 : Winnetka Avenue , Los Angeles
+060371348002_060371348004 : Vanowen Street , Los Angeles
+060371347202_060371348002 : Oakdale Avenue , Los Angeles
+060371347201_060371348002 : Oakdale Avenue , Los Angeles
+060371348003_060371348004 : Oso Avenue , Los Angeles
+060371348003_060371348005 : Oso Avenue , Los Angeles
+060371347102_060371348003 : Oso Avenue , Los Angeles
+060371347202_060371348003 : Winnetka Avenue , Los Angeles
+060371348004_060371348005 : Mason Avenue , Los Angeles
+060371348004_060371349013 : Winnetka Avenue , Los Angeles
+060371348004_060371349042 : Mason Avenue , Los Angeles
+060371348004_060371349041 : Mason Avenue , Los Angeles
+060371340022_060371348005 : Sherman Way , Los Angeles
+060371348005_060371349042 : Mason Avenue , Los Angeles
+060371348005_060371349041 : Los Angeles River Greenway , Los Angeles
+060371340021_060371348005 : Cozycroft Avenue , Los Angeles
+060371347102_060371348005 : Oso Avenue , Los Angeles
+060371347202_060371348005 : Oso Avenue , Los Angeles
+060375335011_060375335012 : East 61st Street , Huntington Park
+060375324001_060375335012 : Slauson Avenue , Maywood
+060375333001_060375335012 : Slauson Avenue , Maywood
+060375332012_060375335012 : Randolph Street , Huntington Park
+060375335012_060375335022 : Carmelita Avenue , Huntington Park
+060375335012_060375335021 : East 61st Street , Huntington Park
+060375335012_060375336011 : Randolph Place , Bell
+060375334021_060375335011 : Carmelita Avenue , Huntington Park
+060375333001_060375335011 : Everett Avenue , Huntington Park
+060375335011_060375335022 : East 61st Street , Huntington Park
+060375335011_060375335021 : East 61st Street , Huntington Park
+060374036001_060374036004 : East Rowland Street , Covina
+060374036003_060374036004 : East Covina Hills Road , Covina
+060374036002_060374036004 : Oak Canyon Road , Covina
+060374036004_060374061021 : Barranca Avenue , Covina
+060374036004_060374061024 : East Puente Street , Covina
+060374036004_060374037223 : East Puente Street , Covina
+060374036004_060374037022 : East Puente Street , Covina
+060374036001_060374036002 : Christopher Columbus Transcontinental Highway , West Covina
+060374036001_060374061021 : East Workman Avenue , West Covina
+060374035001_060374036001 : Christopher Columbus Transcontinental Highway , West Covina
+060374036001_060374063002 : Christopher Columbus Transcontinental Highway , West Covina
+060374036001_060374063001 : Christopher Columbus Transcontinental Highway , West Covina
+060374036001_060374062001 : North Barranca Street , West Covina
+060374036002_060374036003 : East Covina Hills Road , Covina
+060374036003_060374037032 : East Puente Street , Covina
+060374036003_060374037022 : East Puente Street , Covina
+060374013041_060374036003 : Puente Street , San Dimas
+060374013043_060374036003 : East Covina Hills Road , Covina
+060374035001_060374036002 : Christopher Columbus Transcontinental Highway , West Covina
+060374013031_060374036002 : Christopher Columbus Transcontinental Highway , Covina
+060374013043_060374036002 : Via Verde , San Dimas
+060710100091_060710100171 : Phelan Road , Hesperia
+060710100091_060710100172 : Main Street , Hesperia
+060710091191_060710100091 : La Bureau of Power and Light Road , Hesperia
+060372124101_060372124102 : South Kingsley Drive , Los Angeles
+060372123051_060372124102 : South Normandie Avenue , Los Angeles
+060372124102_060372124201 : South Kingsley Drive , Los Angeles
+060372118022_060372124101 : Wilshire Boulevard , Los Angeles
+060372118021_060372124101 : Wilshire Boulevard , Los Angeles
+060372124101_060372125021 : Wilshire Boulevard , Los Angeles
+060372124101_060372125011 : West 8th Street , Los Angeles
+060372124101_060372124201 : West 8th Street , Los Angeles
+060372941103_060372942003 : North Avalon Boulevard , Los Angeles
+060372941103_060372942002 : North Avalon Boulevard , Los Angeles
+060372941102_060372941103 : East Q Street , Los Angeles
+060372941103_060372941201 : Pacific Coast Highway , Los Angeles
+060373104001_060373106011 : North Glenoaks Boulevard , Burbank
+060373106011_060373106022 : Scott Road , Burbank
+060372941101_060375439053 : Wilmington Avenue , Carson
+060372941101_060375437031 : Marine Avenue , Carson
+060372941101_060379800021 : East Lomita Boulevard , Carson
+060372941101_060372941102 : East 248th Street , Carson
+060372325001_060372325002 : West 58th Street , Los Angeles
+060372325001_060372325003 : Western Avenue , Los Angeles
+060372324003_060372325001 : Denker Avenue , Los Angeles
+060372325001_060372326003 : Denker Avenue , Los Angeles
+060372323002_060372325001 : Denker Avenue , Los Angeles
+060372325001_060372372021 : West Slauson Avenue , Los Angeles
+060372325001_060372372022 : Western Avenue , Los Angeles
+060372325002_060372325004 : West Slauson Avenue , Los Angeles
+060372325003_060372325004 : South Gramercy Place , Los Angeles
+060372325004_060372346001 : South Van Ness Avenue , Los Angeles
+060372325004_060372372022 : South Van Ness Avenue , Los Angeles
+060375013002_060375013003 : Broadway , Whittier
+060375013003_060375014001 : Broadway , Whittier
+060375013003_060375014003 : Broadway , Whittier
+060375013002_060375014001 : Broadway , Whittier
+060375013002_060375014003 : Broadway , Whittier
+060375013002_060375015031 : Pickering Avenue , Whittier
+060375013002_060375015034 : Pickering Avenue , Whittier
+060375013002_060375015011 : Pickering Avenue , Whittier
+060375717031_060375717033 : East 52nd Street , Long Beach
+060375717031_060375717032 : Cedar Avenue , Long Beach
+060375717031_060375717042 : Locust Avenue , Long Beach
+060375717031_060375717043 : Locust Avenue , Long Beach
+060374019021_060374019022 : Harrison Avenue , Claremont
+060374019021_060374019023 : West 11th Street , Claremont
+060374019021_060374019024 : North Indian Hill Boulevard , Claremont
+060374019012_060374019021 : West Bonita Avenue , Claremont
+060374018003_060374019021 : Historic Route 66 , Claremont
+060374019022_060374019023 : West 6th Street , Claremont
+060374019022_060374019024 : Harrison Avenue , Claremont
+060374019022_060374021011 : North Carnegie Avenue , Pomona
+060374019011_060374019022 : South College Avenue , Claremont
+060374019012_060374019022 : West Bonita Avenue , Claremont
+060374017043_060374019022 : Harrison Avenue , Claremont
+060374019022_060374020011 : North Carnegie Avenue , Pomona
+060374019023_060374019024 : West 11th Street , Claremont
+060374017011_060374019024 : North Towne Avenue , Claremont
+060374017041_060374019024 : North Towne Avenue , Claremont
+060374017042_060374019024 : East Grove Street , Claremont
+060374017043_060374019024 : East Harrison Avenue , Pomona
+060374018003_060374019024 : North Indian Hill Boulevard , Claremont
+060374018002_060374019024 : Historic Route 66 , Claremont
+060375717011_060375717034 : Cedar Avenue , Long Beach
+060375717033_060375717034 : Cedar Avenue , Long Beach
+060375703041_060375717034 : Market Street , Long Beach
+060375703042_060375717034 : Market Street , Long Beach
+060375717034_060375717042 : Locust Avenue , Long Beach
+060375723011_060375725002 : West 34th Street , Long Beach
+060375723012_060375725002 : North Springdale Drive , Long Beach
+060377020022_060377020023 : Hollister Avenue , Santa Monica
+060377020023_060377020024 : Pico Boulevard , Santa Monica
+060377020023_060377022021 : Ocean Park Boulevard , Santa Monica
+060377020023_060377021025 : Ocean Park Boulevard , Santa Monica
+060377020023_060377021026 : Ocean Park Boulevard , Santa Monica
+060377018023_060377020023 : Pico Boulevard , Santa Monica
+060377019023_060377020023 : Pico Boulevard , Santa Monica
+060377020023_060377022014 : Cedar Street , Santa Monica
+060377020023_060377022015 : Ocean Park Boulevard , Santa Monica
+060377010002_060377010003 : South Peck Drive , Beverly Hills
+060377010001_060377010002 : South Peck Drive , Beverly Hills
+060377010002_060377010004 : Durant Drive , Beverly Hills
+060377010002_060377010005 : Moreno Drive , Beverly Hills
+060377008013_060377010002 : Wilshire Boulevard , Beverly Hills
+060377007003_060377010002 : North Santa Monica Boulevard , Beverly Hills
+060372679011_060377010002 : Santa Monica Boulevard , Beverly Hills
+060372657002_060377010002 : Santa Monica Boulevard , Beverly Hills
+060377010001_060377010003 : Gregory Way , Beverly Hills
+060377010003_060377010004 : South Peck Drive , Beverly Hills
+060377010003_060377010005 : Peck Drive , Los Angeles
+060377009024_060377010003 : Gregory Way , Beverly Hills
+060372690004_060377010003 : Peck Drive , Los Angeles
+060377009023_060377010003 : South Beverwil Drive , Beverly Hills
+060377010001_060377010004 : South Peck Drive , Beverly Hills
+060377009024_060377010001 : Gregory Way , Beverly Hills
+060377008013_060377010001 : Wilshire Boulevard , Beverly Hills
+060377009023_060377010001 : Gregory Way , Beverly Hills
+060377010004_060377010005 : Durant Drive , Beverly Hills
+060372690004_060377010005 : Pico Boulevard , Los Angeles
+060372679012_060377010005 : West Olympic Boulevard , Beverly Hills
+060372679011_060377010005 : Moreno Drive , Beverly Hills
+060372718011_060372718012 : Charnock Road , Los Angeles
+060372718011_060372718021 : Greenfield Avenue , Los Angeles
+060372718011_060372718023 : Prospect Avenue , Culver City
+060372718011_060377028011 : Sepulveda Boulevard , Culver City
+060372718012_060372718013 : San Diego Freeway , Los Angeles
+060372718013_060372719011 : Palms Boulevard , Los Angeles
+060372716004_060372718013 : Palms Boulevard , Los Angeles
+060372717023_060372718013 : Palms Boulevard , Los Angeles
+060372718012_060372719011 : San Diego Freeway , Los Angeles
+060372717014_060372718012 : Palms Boulevard , Los Angeles
+060372718012_060377028021 : San Diego Freeway , Los Angeles
+060372718012_060372718021 : Greenfield Avenue , Los Angeles
+060372718012_060372718023 : Greenfield Avenue , Los Angeles
+060372717023_060372718012 : South Bentley Avenue , Los Angeles
+060372717021_060372718012 : Palms Boulevard , Los Angeles
+060372718012_060377028011 : San Diego Freeway , Los Angeles
+060371193201_060371193411 : Van Nuys , Los Angeles
+060371193201_060371201081 : Nordhoff Street , Los Angeles
+060371175101_060371193201 : Nordhoff Street , Los Angeles
+060371193102_060371193201 : Van Nuys Boulevard , Los Angeles
+060371193101_060371193201 : Van Nuys Boulevard , Los Angeles
+060371171021_060371193201 : Plummer Street , Los Angeles
+060371193201_060371193421 : Van Nuys , Los Angeles
+060371193201_060371201052 : Van Nuys , Los Angeles
+060371193201_060371193401 : Nordhoff Street , Los Angeles
+060375431005_060375433212 : South Central Avenue , Carson
+060375433211_060375433212 : Avalon Boulevard , Carson
+060375410021_060375433212 : Avalon Boulevard , Carson
+060375351021_060375351022 : Prince Avenue , Los Angeles
+060375351021_060375351023 : Zamora Avenue , Florence-Graham
+060375351014_060375351021 : Prince Avenue , Los Angeles
+060375351022_060375354001 : Graham Avenue , Los Angeles
+060375351022_060375353005 : Graham Avenue , Los Angeles
+060375351022_060375353001 : Firestone Boulevard , Los Angeles
+060375351012_060375351022 : East 84th Street , Los Angeles
+060375351014_060375351022 : East 84th Street , Los Angeles
+060375351011_060375351022 : East 83rd Street , Los Angeles
+060372400203_060375351023 : East 88th Place , Los Angeles
+060375351014_060375351023 : Zamora Avenue , Florence-Graham
+060372400103_060375351023 : East 88th Place , Los Angeles
+060375506012_060375506013 : Santa Ana Freeway , Downey
+060375506013_060375506014 : Gallatin School House Road , Downey
+060375506013_060375506022 : Tweedy Lane , Downey
+060375506013_060375506023 : Brock Avenue , Downey
+060375506013_060375507003 : Tweedy Lane , Downey
+060375506013_060375507002 : Santa Ana Freeway , Downey
+060375506011_060375506012 : Lindell Avenue , Downey
+060375506012_060375506014 : Santa Ana Freeway , Downey
+060375506012_060375507002 : Santa Ana Freeway , Downey
+060375026023_060375506011 : Lakewood Boulevard , Downey
+060375025001_060375506011 : Lakewood Boulevard , Downey
+060375025002_060375506011 : Paramount Boulevard , Pico Rivera
+060375506011_060375507002 : Tweedy Lane , Downey
+060710008171_060710008173 : West 16th Street , Upland
+060710008163_060710008171 : West 16th Street , Upland
+060375506014_060375506024 : Gallatin Road , Downey
+060375506014_060375506023 : Gallatin School House Road , Downey
+060371240002_060371240003 : Laurelgrove Avenue , Los Angeles
+060371240001_060371240003 : Whitsett Avenue , Los Angeles
+060371240003_060371240004 : Whitsett Avenue , Los Angeles
+060371240003_060371434001 : Whitsett Avenue , Los Angeles
+060371240003_060371249031 : Laurelgrove Avenue , Los Angeles
+060371240002_060371251002 : Otsego Street , Los Angeles
+060371240002_060371433002 : Laurel Canyon Boulevard , Los Angeles
+060371240002_060371434001 : Laurelgrove Avenue , Los Angeles
+060371240002_060371251004 : Laurel Canyon Boulevard , Los Angeles
+060371240002_060371249031 : Magnolia Boulevard , Los Angeles
+060371240002_060371249032 : Laurel Canyon Boulevard , Los Angeles
+060371240001_060371240004 : Magnolia Boulevard , Los Angeles
+060371240001_060371247003 : Magnolia Boulevard , Los Angeles
+060371240001_060371247001 : Chandler Boulevard , Los Angeles
+060371240001_060371244003 : Chandler Boulevard , Los Angeles
+060371240001_060371249031 : Whitsett Avenue , Los Angeles
+060371236013_060371240001 : Chandler Boulevard , Los Angeles
+060371240004_060371247003 : Magnolia Boulevard , Los Angeles
+060371240004_060371247001 : Magnolia Boulevard , Los Angeles
+060371240004_060371434001 : Riverside Drive , Los Angeles
+060371240004_060371249031 : Whitsett Avenue , Los Angeles
+060375024011_060375024012 : Rosemead Boulevard , Pico Rivera
+060375008003_060375024011 : Passons Boulevard , Pico Rivera
+060375008004_060375024011 : Passons Boulevard , Pico Rivera
+060375024011_060375025002 : Rosemead Boulevard , Pico Rivera
+060375024011_060375024021 : Passons Boulevard , Pico Rivera
+060375024011_060375024022 : Passons Boulevard , Pico Rivera
+060375007004_060375024011 : Washington Boulevard , Pico Rivera
+060375024012_060375024013 : Rex Road , Pico Rivera
+060375024012_060375025002 : Rosemead Boulevard , Pico Rivera
+060375024012_060375024023 : Passons Boulevard , Pico Rivera
+060375024012_060375024022 : Passons Boulevard , Pico Rivera
+060375024013_060375026021 : Rosemead Boulevard , Pico Rivera
+060375024013_060375025002 : Rosemead Boulevard , Pico Rivera
+060375024013_060375024023 : Passons Boulevard , Pico Rivera
+060375024013_060375024022 : Passons Boulevard , Pico Rivera
+060375024013_060375026011 : Passons Boulevard , Pico Rivera
+060372739024_060372739025 : Dell Avenue , Los Angeles
+060372739021_060372739025 : Ocean Avenue , Los Angeles
+060372739022_060372739025 : Grand Canal Court , Los Angeles
+060372739021_060372739024 : West Washington Boulevard , Marina del Rey
+060372739022_060372739024 : Dell Avenue , Los Angeles
+060372739024_060372742021 : Via Dolce , Marina del Rey
+060372739024_060377029013 : Via Dolce , Marina del Rey
+060372739024_060377029014 : West Washington Boulevard , Los Angeles
+060376010022_060376010023 : East Kelso Street , Inglewood
+060376008021_060376010023 : South Prairie Avenue , Inglewood
+060376007031_060376010023 : Pincay Drive , Inglewood
+060376010021_060376010023 : East Kelso Street , Inglewood
+060376010012_060376010023 : Prairie Avenue , Inglewood
+060376007023_060376010023 : Pincay Drive , Inglewood
+060376010022_060376011002 : South La Brea Avenue , Inglewood
+060376010022_060376011003 : East Arbor Vitae Street , Inglewood
+060376010021_060376010022 : East Arbor Vitae Street , Inglewood
+060376010012_060376010022 : East Kelso Street , Inglewood
+060376010022_060376012021 : East Arbor Vitae Street , Inglewood
+060376010022_060376012121 : South La Brea Avenue , Inglewood
+060372739021_060372739022 : Dell Avenue , Los Angeles
+060372735023_060372739021 : Abbot Kinney Boulevard , Los Angeles
+060372736002_060372739021 : Abbot Kinney Boulevard , Los Angeles
+060372739021_060377029014 : West Washington Boulevard , Marina del Rey
+060372739021_060372741002 : West Washington Boulevard , Marina del Rey
+060372738003_060372739021 : Abbot Kinney Boulevard , Los Angeles
+060372739022_060372739023 : South Pacific Avenue , Marina del Rey
+060372739023_060372742022 : Venice Fishing Pier , Marina del Rey
+060372735021_060372739023 : South Pacific Avenue , Los Angeles
+060372735022_060372739023 : Ocean Front Walk , Los Angeles
+060372739023_060379902000 : Ocean Front Walk , Los Angeles
+060372739023_060372742024 : Ocean Front Walk , Marina del Rey
+060372739022_060372742021 : West Washington Boulevard , Marina del Rey

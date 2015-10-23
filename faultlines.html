@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	  <meta charset="UTF-8">
+	  
+	<title>FaultLines</title>
+	<script src="static/javascripts/d3.v3.min.js"></script>
+	<script src="static/javascripts/topojson.v1.min.js"></script>
+	<script src="static/javascripts/jquery.min.js"></script>
+	<script src="static/javascripts/d3.tip.v0.6.3.js"></script>
+	  <script src="static/javascripts/queue.v1.min.js"></script>
+	<script src="static/javascripts/jquery-ui.min.js"></script>
+	<link rel="stylesheet" href="static/stylesheets/jquery-ui.css" />
+	<link rel="stylesheet" href="static/bootstrap-3.1.1-dist/css/bootstrap.min.css">
+	<script src="static/javascripts/jquery-ui.min.js"></script>
+	<link href="static/bootstrap-3.1.1-dist/css/bootstrap-glyphicons.css" rel="stylesheet">
+	<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/smoothness/jquery-ui.css" />
+
+
+	<link rel="stylesheet" type="text/css" href="static/stylesheets/lacma_2.css"> </style>
+	
+     
+</head>
+
+<body>
+<defs>
+    <filter id="f1" x="0" y="0">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" />
+    </filter>
+  </defs>	
+  <div id="scale"></div>
+  <div id="map"><div id="layerLabel">All Layers</div></div>  
+  <div id="legend">
+  	<div id = "title"></div>
+  </div>
+
+  <div id="streetviewImage"></div>
+  <div id="streetview"></div>
+	<script type="text/javascript" charset="utf-8">
+	var root = "data_geo/"
+	var blockGroup = root+"block_group_cp5_s4_props_ws.geojson"
+  var overlap = root+"overlapById_new2.json"
+  var addresses = root+"addresses_finished.csv"
+  var neighborhoods = root+"la-county-neighborhoods-current.geojson"
+	</script>
+  <script src="data_js/race.js"></script>
+  <script src="data_js/education.js"></script>
+	<script src="data_js/transportation.js"></script>	
+  <script src="data_js/occupancy.js"></script>
+  <script src="data_js/owner_renter.js"></script>
+  <script src="data_js/income.js"></script>
+  <script src="data_js/public_assistance.js"></script>
+  <script src ="data_js/mortgage.js"></script>
+
+	  <script src="faultlines.js"></script>
+
+    </body>
+</html>
