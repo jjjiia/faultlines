@@ -48,24 +48,24 @@ function dataDidLoad(error,blockGroup,overlap, addresses,neighborhoods) {
     var edColors = ["#86D366","#55DB35","#58DE90","#6A9E27","#97D43B","#66BA82","#A7C76D","#4DDB64","#3D9F40"]
     initTopDifferences(educationData,overlap_global,edColors,1,addresses, "Higher Education")
     
-    var raceColors = ["#E76E6F","#E83923","#A47460","#AE4D34","#D63941","#D6365F","#A65557","#E39B85","#DB5B33","#C17250"]
-    initTopDifferences(raceData,overlap,raceColors,1,addresses, "Race") 
-      
-    var transColors = ["#2992CE","#5685EC","#4769AD","#4F62BB","#868FE3","#4792E0"]
-    initTopDifferences(transportationData,overlap,transColors,2,addresses,"Transportation") 
- 
-    var incomeColors = ["#E38B3A","#EABF73","#EEB02F","#BA8E30","#A46429","#CD9C66"]
-    initTopDifferences(incomeData,overlap,incomeColors,0,addresses,"Household Income") 
-     //addLandmarks()    
-    var publicAssistanceColors =["#E38B3A","#EABF73","#EEB02F","#BA8E30","#A46429","#CD9C66"]
-     initTopDifferences(publicAssistanceData,overlap,publicAssistanceColors,0,addresses,"Public Assistance") 
+  //  var raceColors = ["#E76E6F","#E83923","#A47460","#AE4D34","#D63941","#D6365F","#A65557","#E39B85","#DB5B33","#C17250"]
+  //  initTopDifferences(raceData,overlap,raceColors,1,addresses, "Race") 
+  //    
+  //  var transColors = ["#2992CE","#5685EC","#4769AD","#4F62BB","#868FE3","#4792E0"]
+  //  initTopDifferences(transportationData,overlap,transColors,2,addresses,"Transportation") 
+  //
+  //  var incomeColors = ["#E38B3A","#EABF73","#EEB02F","#BA8E30","#A46429","#CD9C66"]
+  //  initTopDifferences(incomeData,overlap,incomeColors,0,addresses,"Household Income") 
+  //   //addLandmarks()    
+  //  var publicAssistanceColors =["#E38B3A","#EABF73","#EEB02F","#BA8E30","#A46429","#CD9C66"]
+  //   initTopDifferences(publicAssistanceData,overlap,publicAssistanceColors,0,addresses,"Public Assistance") 
+  ////  
+  //  var mortgageColors = ["#E38B3A","#EABF73","#EEB02F","#BA8E30","#A46429","#CD9C66"]
+  //  initTopDifferences(mortgageData,overlap,mortgageColors,0,addresses,"Mortgage") 
   //  
-    var mortgageColors = ["#E38B3A","#EABF73","#EEB02F","#BA8E30","#A46429","#CD9C66"]
-    initTopDifferences(mortgageData,overlap,mortgageColors,0,addresses,"Mortgage") 
-    
-    var occupancyColors = ["#E38B3A","#EABF73","#EEB02F","#BA8E30","#A46429","#CD9C66"]
-    initTopDifferences(ownerRenterData,overlap,occupancyColors,3,addresses,"Occupancy")
-    
+  //  var occupancyColors = ["#E38B3A","#EABF73","#EEB02F","#BA8E30","#A46429","#CD9C66"]
+  //  initTopDifferences(ownerRenterData,overlap,occupancyColors,3,addresses,"Occupancy")
+  //  
   //
 }
 
@@ -232,8 +232,8 @@ function drawLine(data,color,category,id1,id2,percentDifference,offset,addresses
 	.attr("stroke-dasharray",500 + " " + 500)
 		.attr("stroke-dashoffset", -400)
 		.transition()
-		.delay(1000)
-	    .duration(8000)
+		//.delay(1000)
+	    .duration(3000)
 	    .ease("linear")
 	    .attr("stroke-dashoffset", 0)
 	    .style("opacity",.3)
