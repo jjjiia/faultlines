@@ -5,4 +5,4 @@ Faultlines draws attention to differences between blockgroups by highlighting bo
 
 The code here is for a prototype and still in the process of being developed, it is open to both rewriting and reuse.
 
-zhangjia@media.mit.edu
+youarehere@media.mit.edu
