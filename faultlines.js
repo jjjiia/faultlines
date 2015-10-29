@@ -13,7 +13,12 @@ var global = {
     scale:130000,
 	translate:[0,0],
 	translateScale:1,
-    sacleExtent:[1,20]
+    sacleExtent:[1,20],
+    nowShowing:"",
+    shown:{},
+    drawn:{},
+    groups:{},
+    subCategories:{}
 }
 $(function() {
 	queue()
@@ -24,13 +29,14 @@ $(function() {
         .await(dataDidLoad);
 })
 
-var overlap_global; 
-$("#topDifferences .hideTop").hide()
+//var overlap_global; 
+//$("#topDifferences .hideTop").hide()
 
 function dataDidLoad(error,blockGroup,overlap, addresses,neighborhoods) {
     d3.select("#map").append("svg")
 	window.location.hash = JSON.stringify([global.translate, global.translateScale])
     //console.log(blockGroup)
+    
     drawBlockGroups(blockGroup)
     //drawBlockGroups(neighborhoods)
  //   var raceHeaders = d3.keys(race[0])
@@ -41,12 +47,38 @@ function dataDidLoad(error,blockGroup,overlap, addresses,neighborhoods) {
     var allButton = d3.select("#legend").append("text").text("View All").attr("x",0).attr("y",0)
     allButton.on("click",function(){ 
         d3.selectAll("path").transition().duration(1000).style("opacity",.5)
-        d3.select("#layerLabel").html("All Layers")
+       // d3.select("#layerLabel").html("All Layers")
     })
     
     overlap_global = overlap;
     var edColors = ["#86D366","#55DB35","#58DE90","#6A9E27","#97D43B","#66BA82","#A7C76D","#4DDB64","#3D9F40"]
+    drawLegend(educationData,overlap_global,edColors,1,addresses, "Higher Education")
     initTopDifferences(educationData,overlap_global,edColors,1,addresses, "Higher Education")
+    global.shown["Higher Education"]=true 
+    global.drawn["Higher Education"]=true
+    d3.select("#layerLabel").html(global.nowShowing)
+    for(var i in Object.keys(educationData)){
+        var currentCategoryClass = "_"+Object.keys(educationData)[i].replace(/[^A-Z0-9]/ig, "");
+        d3.selectAll("."+currentCategoryClass).transition().duration(100).style("opacity",1)
+        d3.selectAll("."+currentCategoryClass+"Legend").transition().duration(100).style("opacity",1)
+        global.shown[Object.keys(educationData)[i]]=true
+        global.drawn[Object.keys(educationData)[i]]=true
+    }
+    
+    var raceColors = ["#E76E6F","#E83923","#A47460","#AE4D34","#D63941","#D6365F","#A65557","#E39B85","#DB5B33","#C17250"]
+    var transColors = ["#2992CE","#5685EC","#4769AD","#4F62BB","#868FE3","#4792E0"]
+    var incomeColors = ["#E38B3A","#EABF73","#EEB02F","#BA8E30","#A46429","#CD9C66"]
+    var publicAssistanceColors =["#E38B3A","#EABF73","#EEB02F","#BA8E30","#A46429","#CD9C66"]
+    var mortgageColors = ["#E38B3A","#EABF73","#EEB02F","#BA8E30","#A46429","#CD9C66"]
+    var occupancyColors = ["#E38B3A","#EABF73","#EEB02F","#BA8E30","#A46429","#CD9C66"]
+    
+    drawLegend(raceData,overlap,raceColors,1,addresses, "Race")
+    drawLegend(transportationData,overlap,transColors,2,addresses,"Transportation")
+    drawLegend(incomeData,overlap,incomeColors,0,addresses,"Household Income")
+    drawLegend(publicAssistanceData,overlap,publicAssistanceColors,0,addresses,"Public Assistance")
+    drawLegend(mortgageData,overlap,mortgageColors,0,addresses,"Mortgage")
+    drawLegend(ownerRenterData,overlap,occupancyColors,3,addresses,"Occupancy")
+  //
     
   //  var raceColors = ["#E76E6F","#E83923","#A47460","#AE4D34","#D63941","#D6365F","#A65557","#E39B85","#DB5B33","#C17250"]
   //  initTopDifferences(raceData,overlap,raceColors,1,addresses, "Race") 
@@ -68,7 +100,174 @@ function dataDidLoad(error,blockGroup,overlap, addresses,neighborhoods) {
   //  
   //
 }
+function replaceAll(str) {
+    str = str.replace("'", "");
+    str = str.replace(",", "");
+    str = str.replace(".", "");
+    str = str.replace("$", "");
+    
+  return str.replace(new RegExp(" ", 'g'), "");
+}
 
+function drawLegend(data,overlap,colors,offset,addresses,datasetLabel){
+   // console.log(Object.keys(data))
+  //  fruits.indexOf("Apple");
+    global.shown[datasetLabel]=false 
+    global.drawn[datasetLabel]=false 
+    
+    global.subCategories[datasetLabel]=[]
+    var categories = []
+    for(var i in Object.keys(data)){
+        categories.push([Object.keys(data)[i],colors[i]])
+        global.shown[Object.keys(data)[i]]=false 
+        global.drawn[Object.keys(data)[i]]=false 
+        global.groups[Object.keys(data)[i]]=datasetLabel
+        global.subCategories[datasetLabel].push(Object.keys(data)[i])
+    }
+    
+    var legend = d3.select("#legend")
+        .append("svg")
+        .attr("width",400)
+        .attr("height",categories.length*12+14)
+        //.attr("class",className)
+    legend.append("rect").attr("x",0).attr("y",0).attr("width",400)
+        .attr("height",categories.length*12+14).attr("fill","white")
+       // .attr("class",className+"Legend")
+        .attr("cursor","pointer")
+    
+    var datasetClassName = "_"+replaceAll(datasetLabel);
+    
+    legend.append("text").text(datasetLabel).attr("x",2).attr("y",10).style("font-size","14px").attr("fill",colors[1]).attr("opacity",1)
+        .attr("class",datasetClassName+"Legend")
+        //.attr("cursor","pointer")
+        //.on("click",function(){
+        //    if(global.drawn[datasetLabel] == false){
+        //        //just draw whole group, set group and sub to shown = true
+        //        initTopDifferences(data,overlap,colors,offset,addresses,datasetLabel)
+        //        global.drawn[datasetLabel] = true
+        //        global.shown[datasetLabel] = true
+        //        global.nowShowing += datasetLabel
+        //        for(var i in categories){
+        //            var currentCategoryClass = "_"+categories[i][0].replace(/[^A-Z0-9]/ig, "");
+        //            d3.selectAll("."+currentCategoryClass).transition().duration(1000).style("opacity",1)
+        //            d3.selectAll("."+currentCategoryClass+"Legend").transition().duration(1000).style("opacity",1)
+        //            
+        //            global.shown[categories[i][0]] = true
+        //        }
+        //    }else{
+        //        if( global.shown[datasetLabel] == true){
+        //            //turn whole group false, and each sub false
+        //            //turn each line layer off
+        //            //remove all text for group and for sub
+        //            for(var i in categories){
+        //                var currentCategoryClass = "_"+categories[i][0].replace(/[^A-Z0-9]/ig, "");
+        //                d3.selectAll("."+currentCategoryClass).transition().duration(1000).style("opacity",0)
+        //                d3.selectAll("."+currentCategoryClass+"Legend").transition().duration(1000).style("opacity",0)
+        //                
+        //                global.shown[categories[i][0]] = false
+        //                global.nowShowing = global.nowShowing.replace(categories[i][0],"")
+        //            }
+        //            global.nowShowing = global.nowShowing.replace(datasetLabel,"")
+        //            global.shown[datasetLabel] = false
+        //                
+        //        }else{
+        //            //if group is false, turn each sub layer on, set each sub layer to true
+        //            //set group to true
+        //            //remove all sub text
+        //            //add group text
+        //            for(var i in categories){
+        //                var currentCategoryClass = "_"+categories[i][0].replace(/[^A-Z0-9]/ig, "");
+        //                d3.selectAll("."+currentCategoryClass).transition().duration(1000).style("opacity",1)
+        //            d3.selectAll("."+currentCategoryClass+"Legend").transition().duration(1000).style("opacity",1)
+        //                
+        //                global.shown[categories[i][0]] = true
+        //                global.nowShowing = global.nowShowing.replace(categories[i][0],"")
+        //            } 
+        //            global.nowShowing = global.nowShowing+datasetLabel
+        //            global.shown[datasetLabel] = true
+        //            d3.select("#layerLabel").html(global.nowShowing)
+        //            
+        //        }
+        //       
+        //    }
+        //    //d3.selectAll("path").transition().duration(1000).style("opacity",.05)
+        //    d3.select("#layerLabel").html(global.nowShowing)
+        //    
+        //})
+    
+    legend.selectAll(".legend rect")
+        .data(categories)
+        .enter()
+        .append("rect")
+        .attr("class",function(d){
+            var className = "_"+replaceAll(d[0]);
+            //console.log(className);
+            return className})
+        .attr("x",function(d){return 8})
+        .attr("y",function(d,i){return i*12+19})
+        .attr("width",20)
+        .attr("height",4)
+        .attr("fill",function(d){return d[1]})
+        .attr("opacity",0)
+    
+    legend.selectAll(".legend")
+        .data(categories)
+        .enter()
+        .append("text")
+        .attr("class",function(d){
+              return"_"+replaceAll(d[0])+"Legend"
+        })
+        .attr("x",function(d){return 36})
+        .attr("y",function(d,i){return i*12+25})
+        .text(function(d){return d[0]})
+        .attr("fill",function(d){return d[1]})
+        .attr("opacity",.4)
+        .attr("cursor","pointer")
+        .on("mouseover",function(){d3.select(this).attr("text-decoration","underline")})
+        .on("mouseout",function(){d3.select(this).attr("text-decoration","none")})
+        .on("click", function(d){
+            //console.log(global.shown[d[0]])
+            var className = "_"+replaceAll(d[0])
+      
+            if(global.drawn[d[0]]==false){
+                //if nothing is drawn,set drawn to true
+                global.drawn[global.groups[d[0]]]==true
+                
+                //draw all category
+                //add sub layer text
+                console.log("draw triggered")
+                initTopDifferences(data,overlap,colors,offset,addresses,datasetLabel)
+                //set cat shown to false
+                global.shown[global.groups[d[0]]]==false
+                //turn on clicked sub layer, set sub shown to true, 
+                d3.selectAll("."+className).transition().duration(1000).style("opacity",1)
+                d3.selectAll("."+className+"Legend").transition().duration(1000).style("opacity",1)
+                global.shown[d[0]] = true
+                global.drawn[d[0]] = true
+                
+            }else{
+                //if already drawn and sub is shown
+                if(global.shown[d[0]] == true){
+                    console.log("True triggered")
+                    //if sub is shown
+                    //turn sub off, set sub shown to false, remove text
+                    d3.selectAll("."+className).transition().duration(1000).style("opacity",0)
+                    d3.selectAll("."+className+"Legend").transition().duration(1000).style("opacity",0.5)
+                    global.shown[d[0]] = false
+                    //check if it is the last category?
+                        
+                }else{
+                    //if sub is false
+                    //make sub visible, set shown to true
+                    d3.selectAll("."+className).transition().duration(1000).style("opacity",1)
+                    d3.selectAll("."+className+"Legend").transition().duration(1000).style("opacity",1)
+                    global.shown[d[0]] = true
+                }
+            }
+                           
+        })
+        return global.drawn
+}
 function csvToJson(addresses){
     //ids,street,locale
     addressesById = {}
@@ -80,15 +279,14 @@ function csvToJson(addresses){
     }
     return addressesById
 }
-
 var global_data;
 var links =[];
-
 function initTopDifferences(data,overlap,colors,offset,addresses,datasetLabel){
     //var colors = ["#66A444","#C055C3","#CB5036","#4B8980","#AE5271","#7477B7","#9B7831","#66A444","#C055C3","#CB5036","#4B8980","#AE5271","#7477B7","#9B7831"]
     var colorIndex = 0
     var categories = []
     for(var i in data){
+        //console.log(i)
         categories.push([i,colors[colorIndex]])
         for(var j in data[i]){
             var row = data[i][j]
@@ -97,7 +295,7 @@ function initTopDifferences(data,overlap,colors,offset,addresses,datasetLabel){
             var percentDifference = row[2]
             var key = id1+"_"+id2
             var lineData = overlap[key]
-       links.push(lineData);
+           links.push(lineData);
            try {
             drawLine(lineData,colors[colorIndex],i,id1,id2,percentDifference,offset,addresses,datasetLabel);
             }
@@ -107,85 +305,14 @@ function initTopDifferences(data,overlap,colors,offset,addresses,datasetLabel){
         }
         colorIndex+=1
     }
-    
- 
-
-    var legend = d3.select("#legend")
-    .append("svg")
-    .attr("width",400)
-    .attr("height",categories.length*12+14)
-    //.attr("class",className)
-    legend.append("rect").attr("x",0).attr("y",0).attr("width",400)
-    .attr("height",categories.length*12+14).attr("fill","white")
-   // .attr("class",className+"Legend")
-    .attr("cursor","pointer")
-    
-    var datasetClassName = datasetLabel.replace(/[^A-Z0-9]/ig, "");
-
-    
-    legend.append("text").text(datasetLabel).attr("x",2).attr("y",10).style("font-size","14px").attr("fill",colors[1])
-    .attr("class",datasetClassName)
-    .attr("cursor","pointer")
-    .on("click",function(){
-        d3.selectAll("path").transition().duration(1000).style("opacity",.05)
-        d3.select("#layerLabel").html(datasetLabel)
-        for(var i in categories){
-            var currentCategoryClass = "_"+categories[i][0].replace(/[^A-Z0-9]/ig, "");
-            d3.selectAll("."+currentCategoryClass).transition().duration(1000).style("opacity",1)
-        }
-    })
-    
-    legend.selectAll(".legend rect")
-    .data(categories)
-    .enter()
-    .append("rect")
-    .attr("class",function(d){
-        var className = d[0].replace(/[^A-Z0-9]/ig, "");
-        //console.log(className);
-        
-        return className})
-    .attr("x",function(d){return 8})
-    .attr("y",function(d,i){return i*12+19})
-    .attr("width",20)
-    .attr("height",4)
-    .attr("fill",function(d){return d[1]})
-    .attr("opacity",.6)
-    
-    legend.selectAll(".legend")
-    .data(categories)
-    .enter()
-    .append("text")
-      .attr("class",function(d){
-          var className = "_"+d[0].replace(/[^\w\s]/gi, '')
-         // console.log(className);
-          return className})
-    .attr("x",function(d){return 36})
-    .attr("y",function(d,i){return i*12+25})
-    .text(function(d){return d[0]})
-    .attr("fill",function(d){return d[1]})
-    .attr("opacity",1)
-    .attr("cursor","pointer")
-    
-    .on("click", function(d){
-        var className = "_"+d[0].replace(/[^A-Z0-9]/ig, "");
-        d3.selectAll("path").transition().duration(1000).style("opacity",.05)
-        d3.select("#layerLabel").html(d[0])
-        //console.log(className)
-       // d3.selectAll("."+className+"Legend").transition().duration(1000).attr("opacity",1)
-        d3.selectAll("."+className).transition().duration(1000).style("opacity",1)
-      //  console.log(className)
-    })
 }
 function drawLine(data,color,category,id1,id2,percentDifference,offset,addresses,datasetLabel){
-    
 	var projection = d3.geo.equirectangular().scale(global.scale).center(global.center)
 	var path = d3.geo.path().projection(projection);
     var lineWidthScale = d3.scale.linear().domain([0,100]).range([1,4])
     var className = datasetLabel.replace(" ","")
     
-    
-    var className = "_"+category.replace(/[^A-Z0-9]/ig, "");
-    
+    var className = "_"+replaceAll(category)    
     
     var zoom = d3.behavior.zoom()
         .translate([0, 0])
@@ -229,15 +356,15 @@ function drawLine(data,color,category,id1,id2,percentDifference,offset,addresses
         .style("fill","none")
 	    .style("opacity",0)
     
-	.attr("stroke-dasharray",500 + " " + 500)
-		.attr("stroke-dashoffset", -400)
-		.transition()
-		//.delay(1000)
-	    .duration(3000)
-	    .ease("linear")
-	    .attr("stroke-dashoffset", 0)
-	    .style("opacity",.3)
-        
+	//.attr("stroke-dasharray",500 + " " + 500)
+	//	.attr("stroke-dashoffset", -400)
+	//	.transition()
+	//	//.delay(1000)
+	//    .duration(2000)
+	//    .ease("linear")
+	//    .attr("stroke-dashoffset", 0)
+	//    .style("opacity",.3)
+    //    
     
     
     
